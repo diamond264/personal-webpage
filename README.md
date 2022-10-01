@@ -1,4 +1,4 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# [Hugo Academic Theme | Webpage of HJ](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
