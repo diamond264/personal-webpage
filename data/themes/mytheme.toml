@@ -4,14 +4,12 @@ name = "MyTheme"
 [light]
   # Primary
   primary = "#3D3C42"
-
   # Menu
   menu_primary = "#A6D1E6"
   menu_text = "#3D3C42"
   menu_text_active = "#7F5283"
   menu_title = "#3D3C42"
-
   # Backgrounds
   background = "#FEFBF6"
   home_section_odd = "#FEFBF6"
-  home_section_even = "FFFFFF"
+  home_section_even = "#FFFFFF"
