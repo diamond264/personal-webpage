@@ -118,3 +118,9 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+# Global parameters
+
+admin:
+  name: Hyungjun Yoon
+  role: "Ph.D. Student @ KAIST"
