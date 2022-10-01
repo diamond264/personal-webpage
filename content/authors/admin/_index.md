@@ -3,7 +3,7 @@
 title: Hyungjun Yoonmmmmmm
 
 # Full name (for SEO)
-first_name: Hyungjun
+first_name: Hyungjunmmmmm
 last_name: Yoon
 
 # Is this the primary user of the site?
