@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hyungjun Yoon
 
 # Full name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Hyungjun
+last_name: Yoon
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student @ KAIST
 
 # Organizations/Affiliations to show in About widget
 organizations:
