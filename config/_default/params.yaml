@@ -42,6 +42,8 @@ header:
 # Site footer
 
 footer:
+  contact:
+    notice: hyungjun.yoon@kaist.ac.kr
   # copyright:
   #   notice: '© {year} Me. This work is licensed under {license}'
   #   license:
