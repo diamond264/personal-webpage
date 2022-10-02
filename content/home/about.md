@@ -2,7 +2,7 @@
 widget = "blank"
 headless = true
 active = true
-weight = 10
+weight = 1
 
 title = ""
 subtitle = ""
@@ -15,21 +15,17 @@ subtitle = ""
 <style>
     .tab { white-space: pre; }
 
-    body {
-        font-size: 13pt;
-        margin-left: 10%;
-        margin-right: 10%;
-    }
-
     a.text {
         text-decoration: underline;
     }
 
     div.full {
-        width: 100%;
+        font-size: 13pt;
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 80%;
         height: 100%;
         margin-top: 50px;
-        horizontal-align: middle;
     }
 
     div.bio {
@@ -71,12 +67,6 @@ subtitle = ""
     }
 
     @media only screen and (max-width: 992px) {
-        body {
-            font-size: 12pt;
-            text-align:center;
-            margin-left: 0%;
-            margin-right: 0%;
-        }
         .center-cropped {
             width: 70%;
             height: 70%;
@@ -92,7 +82,6 @@ subtitle = ""
         }
         div.bio {
             width: 80%;
-            height: 100%;
             margin-right: 10%;
             margin-left: 10%;
             float: left;
@@ -107,10 +96,13 @@ subtitle = ""
             transform: initial;
         }
         div.full {
+            font-size: 12pt;
+            text-align:center;
+            margin-left: 0%;
+            margin-right: 0%;
             width: 100%;
             height: 100%;
             margin-top: 50px;
-            horizontal-align: initial;
             vertical-align: middle;
             align-items: center;
         }
@@ -130,7 +122,7 @@ subtitle = ""
 
 <div class="bio">
 <div class="bio_contents">
-I am a Ph.D. student in <a class="text" href="https://nmsl.kaist.ac.kr/">Networking & Mobile Systems Lab</a> at <a class="text" href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by Professor <a class="text" href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. My research interest is in Mobile Sensing and Machine Learning.
+I am a Ph.D. student in <a class="text" href="https://nmsl.kaist.ac.kr/">Networking & Mobile Systems Lab</a> at <a class="text" href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by Professor <a class="text" href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I'm interested in exploring how Machine Learning technologies can be applied to Mobile Computing applications in order to solve real-world problems in a more efficient and effective manner.
 
 <hr />
 <a href=".">{{< icon name="file" pack="fas" >}} CV</a><span class="tab">&#9;</span>

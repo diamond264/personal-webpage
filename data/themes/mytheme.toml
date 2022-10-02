@@ -12,4 +12,4 @@ name = "MyTheme"
   # Backgrounds
   background = "#FEFBF6"
   home_section_odd = "#FEFBF6"
-  home_section_even = "#FFFFFF"
+  home_section_even = "#FEFBF6"

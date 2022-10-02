@@ -8,19 +8,19 @@ main:
     url: '#about'
     weight: 10
   - name: News
-    url: '#posts'
-    weight: 20
-  - name: Education
-    url: '#projects'
+    url: '#news'
     weight: 20
   - name: Publications
-    url: '#talks'
+    url: '#publications'
+    weight: 30
+  - name: Honors
+    url: '#honors'
     weight: 40
-  - name: Honors & Awards
-    url: '#featured'
+  - name: Education
+    url: '#education'
     weight: 50
   - name: Patents
-    url: '#contact'
+    url: '#patents'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
