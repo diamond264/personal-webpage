@@ -25,7 +25,7 @@ experience:
   - title: Ph.D. in Electrical Engineering,  <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Advisor Prof. <a chref="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>)
     date_start: '2022-03-01'
     date_end: ''
-  - title: Ph.D. Visitor in Computer Science, <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a href="https://personal.ntu.edu.sg/limo/">Mo Li</a>)
+  - title: Visiting researcher in Computer Science, <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a href="https://personal.ntu.edu.sg/limo/">Mo Li</a>)
     date_start: '2022-09-26'
     date_end: ''
   - title: M.S. in Computer Science,  <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Advisor Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>)
