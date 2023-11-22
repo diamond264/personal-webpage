@@ -112,7 +112,7 @@ subtitle = ""
 <div class="full">
 <div class="profile">
 <div class="img_container"><center>
-<img src="authors/admin/profile.png" alt="Hyungjun Yoon"
+<img src="authors/admin/hjyoon.jpg" alt="Hyungjun Yoon"
     class="img-thumbnail rounded rounded-circle center-cropped">
 </center></div>
 
