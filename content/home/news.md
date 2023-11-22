@@ -39,7 +39,8 @@ subtitle = ""
 </style>
 
 <ul class="news">
-<li><span class="tabdate">Sep. 2022<span class="tab">&#9;</span>| </span> Started my visiting research in <a class="text" href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a class="text" href="https://personal.ntu.edu.sg/limo/">Mo Li</a>)</li>
+<li><span class="tabdate">Oct. 2023<span class="tab">&#9;</span>| </span> Paper accepted at ACM CHI ‘22</li>
+<li><span class="tabdate">Sep. 2022<span class="tab">&#9;</span>| </span> Visiting research in <a class="text" href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a class="text" href="https://personal.ntu.edu.sg/limo/">Mo Li</a>) (by Dec. 2022)</li>
 <li><span class="tabdate">Mar. 2022<span class="tab">&#9;</span>| </span> Honorable Mention at ACM CHI ‘22</li>
 <li><span class="tabdate">Nov. 2021<span class="tab">&#9;</span>| </span> Paper accepted at ACM CHI ‘22</li>
 <li><span class="tabdate">Mar. 2021<span class="tab">&#9;</span>| </span> Started my integrated M.S. and Ph.D. in Networking & Mobile Systems Lab</li>
