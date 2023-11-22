@@ -10,6 +10,7 @@ name = "MyTheme"
   menu_text_active = "#7F5283"
   menu_title = "#3D3C42"
   # Backgrounds
-  background = "#FEFBF6"
+  # background = "#FEFBF6"
+  background = "#FFFFFF"
   home_section_odd = "#FEFBF6"
   home_section_even = "#FEFBF6"

@@ -1,3 +1,4 @@
+* (11/22/23) Changed domain provider. Please refer to https://account.squarespace.com/domains to manage the domains.
 # [Hugo Academic Theme | Webpage of HJ](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
