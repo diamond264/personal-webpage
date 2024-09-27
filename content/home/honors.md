@@ -42,7 +42,7 @@ p.title {
 </style>
 <div class="honors">
 <p class="title">Best Paper Honorable Mention</p>
-<i>ACM CHI 2022; Awarded for the top 5% of all submissions..</i></br>
+<i>ACM CHI 2022; Awarded for the top 5% of all submissions</i></br>
 </div>
 
 <div class="honors">
