@@ -51,7 +51,43 @@ a.title {
 <a class="badge badge-info" href="https://arxiv.org/abs/2209.00945">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
 
+<div class="pub">
+<a class="title" href=".">"Adapt2: Adapting Pre-Trained Sensing Models to End-Users via Self-Supervision Replay"</a> </br>
+<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
+<i>arXiv</i></br>
+<a class="badge badge-info" href=".">{{< icon name="book" pack="fas" >}} pdf</a>
+</div>
+
+<div class="pub">
+<a class="title" href=".">""I know my personal data does not leave my phone, but ...”: Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
+Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyoungshick Kim, and Sung-Ju Lee</br>
+<i>arXiv</i></br>
+<a class="badge badge-info" href=".">{{< icon name="book" pack="fas" >}} pdf</a>
+</div>
+
+<div class="pub">
+<a class="title" href=".">"Recover as It is Designed to Be: Recovering from Compatibility Mobile App Crashes by Reusing User Flows"</a> </br>
+Donghwi Kim, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Chang Min Park, Sujin Han, Youngjin Kwon, Steve Ko, and Sung-Ju Lee</br>
+<i>arXiv</i></br>
+<a class="badge badge-info" href=".">{{< icon name="book" pack="fas" >}} pdf</a>
+</div>
+
 <h2 class="publications">Conferences and Journals</h2>
+
+<div class="pub">
+<a class="title" href=".">"ContrastSense: Domain-invariant Contrastive Learning for In-the-wild Wearable Sensing"</a> </br>
+Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</br>
+<i>ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2025.</i></br>
+<a class="badge badge-info" href=".">{{< icon name="book" pack="fas" >}} pdf</a>
+</div>
+
+<div class="pub">
+<a class="title" href=".">"By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting"</a> </br>
+<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Biniyam Aschalew Tolera, Taesik Gong, Kimin Lee, Sung-Ju Lee</br>
+<i>Conference on Empirical Methods in Natural Language Processing (EMNLP Main), Nov. 2024.</i></br>
+<a class="badge badge-info" href=".">{{< icon name="book" pack="fas" >}} pdf</a>
+</div>
+
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502041">"FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"</a> </br>
 Jaemin Shin, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, and Sung-Ju Lee</br>

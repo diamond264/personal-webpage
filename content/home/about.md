@@ -122,14 +122,14 @@ subtitle = ""
 
 <div class="bio">
 <div class="bio_contents">
-I am a Ph.D. student in <a class="text" href="https://nmsl.kaist.ac.kr/">Networking & Mobile Systems Lab</a> at <a class="text" href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by Professor <a class="text" href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I'm interested in exploring how Machine Learning technologies can be applied to Mobile Computing applications in order to solve real-world problems in a more efficient and effective manner.
+I am a Ph.D. student in <a class="text" href="https://nmsl.kaist.ac.kr/">Networking & Mobile Systems Lab</a> at <a class="text" href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>, advised by Professor <a class="text" href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I'm interested in exploring how Machine Learning technologies can be applied to Mobile Computing applications in order to solve real-world problems.
 
 <hr />
-<a href=".">{{< icon name="file" pack="fas" >}} CV </a><span class="tab">&#9;</span>
+<a href="https://drive.google.com/file/d/1uFNU_t1R9M4W56_NnuM137mmNZT0q2fg/view?usp=sharing">{{< icon name="file" pack="fas" >}} CV </a><span class="tab">&#9;</span>
 <a href="mailto:hyungjun.yoon@kaist.ac.kr">{{< icon name="envelope" pack="fas" >}} Email </a><span class="tab">&#9;</span>
 <a href="https://github.com/diamond264">{{< icon name="github" pack="fab" >}} Github </a><span class="tab">&#9;</span>
 <a href="https://scholar.google.com/citations?user=a7PribYAAAAJ&hl=ko">{{< icon name="google" pack="fab" >}} Scholar </a><span class="tab">&#9;</span>
-<a href="https://twitter.com/hyung_jun_yoon">{{< icon name="twitter" pack="fab" >}} Twitter</a>
+<a href="https://x.com/hyung_jun_yoon">{{< icon name="twitter" pack="fab" >}} X</a>
 </div>
 </div>
 </div>
