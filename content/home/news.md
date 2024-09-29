@@ -39,9 +39,9 @@ subtitle = ""
 </style>
 
 <ul class="news">
-<li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| <span class="tab">&#9;</span> Paper accepted at UbiComp ‘25</li>
+<li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at UbiComp ‘25</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span> Paper accepted at EMNLP ‘24</li>
-<li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span> Started my research internship at Microsoft Research</li>
+<li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span> Started my research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a> (Advisor Prof. <a chref="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)</li>
 <li><span class="tabdate">Oct. 2023<span class="tab">&#9;</span>| </span> Paper accepted at EMNLP ‘23</li>
 <li><span class="tabdate">Sep. 2022<span class="tab">&#9;</span>| </span> Started my visiting research at <a class="text" href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a class="text" href="https://personal.ntu.edu.sg/limo/">Mo Li</a>) (by Dec. 2022)</li>
 <li><span class="tabdate">Mar. 2022<span class="tab">&#9;</span>| </span> Honorable Mention at ACM CHI ‘22</li>
