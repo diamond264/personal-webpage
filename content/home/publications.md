@@ -95,7 +95,7 @@ Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</s
 <a class="title" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502041">"FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"</a> </br>
 Jaemin Shin, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, and Sung-Ju Lee</br>
 <i><b>EMNLP 2023 (main track, short paper)</b></i></br>
-<a class="badge badge-info" href="papers/Fedtheraphist.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="papers/Fedtherapist.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/fedtherapist/">{{< icon name="link" pack="fas" >}} website</a>
 <!-- <a class="badge badge-info" href="https://www.youtube.com/watch?v=77XNl39QoEE&feature=youtu.be">{{< icon name="video" pack="fas" >}} video</a> -->
 </div>
