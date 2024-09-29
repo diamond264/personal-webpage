@@ -28,7 +28,7 @@ experience:
   - title: Ph.D. in Electrical Engineering,  <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Advisor Prof. <a chref="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>)
     date_start: '2022-03-01'
     date_end: ''
-  - title: Visiting researcher in Computer Science, <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a href="https://personal.ntu.edu.sg/limo/">Mo Li</a>)
+  - title: Visiting researcher at <a href="https://wands.sg/">Wireless and Networked Distributed Sensing (WANDS) group</a>, <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a href="https://personal.ntu.edu.sg/limo/">Mo Li</a>)
     date_start: '2022-09-26'
     date_end: '2022-12-31'
   - title: M.S. in Computer Science,  <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Advisor Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>)
@@ -37,6 +37,9 @@ experience:
   - title: B.S. in Computer Science,  <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Cum Laude)
     date_start: '2015-03-01'
     date_end: '2020-02-29'
+  - title: Research intern at <a href="https://ds.ibs.re.kr/">Data Science Group</a>, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Advisor Prof. <a href="https://www.mpi-sp.org/cha">Meeyoung Cha</a>)
+    date_start: '2019-08-01'
+    date_end: '2020-01-30'
 
 design:
   columns: '1'
