@@ -42,7 +42,7 @@ a.title {
 }
 }
 </style>
-<h2 class="publications">Preprints</h2>
+<h2 class="publications">Preprints &amp; Under Review</h2>
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2209.00945">"IMG2IMU: Applying Knowledge from Large-Scale Images to IMU Applications via Contrastive Learning"</a></br>
 <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</br>
