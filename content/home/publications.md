@@ -77,7 +77,7 @@ Donghwi Kim, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, C
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
-"ContrastSense: Domain-invariant Contrastive Learning for In-the-wild Wearable Sensing" </br>
+<a class="title" href=".">"ContrastSense: Domain-invariant Contrastive Learning for In-the-wild Wearable Sensing"</a> </br>
 Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</br>
 <i><b>UbiComp 2025</b></i></br>
 <!-- <a class="badge badge-info" href="papers/ContrastSense.pdf">{{< icon name="book" pack="fas" >}} pdf</a> -->
