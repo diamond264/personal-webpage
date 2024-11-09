@@ -39,6 +39,7 @@ subtitle = ""
 </style>
 
 <ul class="news">
+<li><span class="tabdate">Nov. 2024<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at MSRA</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at UbiComp ‘25</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at EMNLP ‘24</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Started my research internship at <a class="text" href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a> (Advisor Prof. <a class="text" href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)</li>
