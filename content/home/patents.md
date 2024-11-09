@@ -47,6 +47,7 @@ Sung-Ju Lee, Seungjoo Lee, <strong style="text-decoration:underline">Hyungjun Yo
 <i>Korea Patent; In progress</i>
 </div>
 
+<div class="patent">
 <p class="title">"Inference Method Using Dynamic Resource-Based Adaptive Deep Learning Model and Deep Learning Model Inference Device Performing Method"</p>
 Sung-Ju Lee, Donghwi Kim, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Yewon Kim, Sujin Han</br>
 <i>US Patent; Filing date: 2023.12.20, No.18/389,848; Korea patent; Filing date: 2023.05.10, No.10-2023-0060780</i>
