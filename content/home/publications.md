@@ -42,38 +42,6 @@ a.title {
 }
 }
 </style>
-<h2 class="publications">Preprints &amp; Under Review</h2>
-
-<div class="pub">
-<a class="title" href="https://arxiv.org/abs/2404.15305">"Adapt^2: Adapting Pre-Trained Sensing Models to End-Users via Self-Supervision Replay"</a> </br>
-<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
-<i>arXiv preprint</i></br>
-<a class="badge badge-info" href="papers/Adapt2.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-<a class="badge badge-info" href="https://arxiv.org/abs/2404.15305">{{< icon name="link" pack="fas" >}} arXiv</a>
-</div>
-
-<div class="pub">
-<a class="title" href="https://arxiv.org/abs/2209.00945">"IMG2IMU: Applying Knowledge from Large-Scale Images to IMU Applications via Contrastive Learning"</a></br>
-<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</br>
-<i>Under review</i></br>
-<a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-<a class="badge badge-info" href="https://arxiv.org/abs/2209.00945">{{< icon name="link" pack="fas" >}} arXiv</a>
-</div>
-
-<div class="pub">
-<a class="title" href=".">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
-Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyoungshick Kim, and Sung-Ju Lee</br>
-<i>Under review</i></br>
-</div>
-
-<div class="pub">
-<a class="title" href=".">"Recover as It is Designed to Be: Recovering from Compatibility Mobile App Crashes by Reusing User Flows"</a> </br>
-Donghwi Kim, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Chang Min Park, Sujin Han, Youngjin Kwon, Steve Ko, and Sung-Ju Lee</br>
-<i>arXiv preprint</i></br>
-<a class="badge badge-info" href="papers/SecondChance.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-<a class="badge badge-info" href="https://arxiv.org/abs/2406.01339">{{< icon name="link" pack="fas" >}} arXiv</a>
-</div>
-
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
@@ -108,4 +76,36 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/mydj/">{{< icon name="link" pack="fas" >}} website</a>
 <a class="badge badge-info" href="https://www.youtube.com/watch?v=77XNl39QoEE&feature=youtu.be">{{< icon name="video" pack="fas" >}} video</a>
 <a class="badge badge-info">{{< icon name="award" pack="fas" >}} Honorable Mention Award</a>
+</div>
+
+<h2 class="publications">Preprints &amp; Under Review</h2>
+
+<div class="pub">
+<a class="title" href="https://arxiv.org/abs/2404.15305">"Adapt^2: Adapting Pre-Trained Sensing Models to End-Users via Self-Supervision Replay"</a> </br>
+<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
+<i>arXiv preprint</i></br>
+<a class="badge badge-info" href="papers/Adapt2.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2404.15305">{{< icon name="link" pack="fas" >}} arXiv</a>
+</div>
+
+<div class="pub">
+<a class="title" href="https://arxiv.org/abs/2209.00945">"IMG2IMU: Applying Knowledge from Large-Scale Images to IMU Applications via Contrastive Learning"</a></br>
+<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</br>
+<i>Under review</i></br>
+<a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2209.00945">{{< icon name="link" pack="fas" >}} arXiv</a>
+</div>
+
+<div class="pub">
+<a class="title" href=".">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
+Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyoungshick Kim, and Sung-Ju Lee</br>
+<i>Under review</i></br>
+</div>
+
+<div class="pub">
+<a class="title" href=".">"Recover as It is Designed to Be: Recovering from Compatibility Mobile App Crashes by Reusing User Flows"</a> </br>
+Donghwi Kim, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Chang Min Park, Sujin Han, Youngjin Kwon, Steve Ko, and Sung-Ju Lee</br>
+<i>arXiv preprint</i></br>
+<a class="badge badge-info" href="papers/SecondChance.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2406.01339">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
