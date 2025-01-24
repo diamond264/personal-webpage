@@ -45,6 +45,13 @@ a.title {
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
+<a class="title" href=".">"SelfReplay: Adapting Self-Supervised Sensory Models via Adaptive Meta-Task Replay"</a> </br>
+<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
+<i><b>To appear in SenSys 2025</b></i></br>
+<!-- <a class="badge badge-info" href=".">{{< icon name="book" pack="fas" >}} pdf</a> -->
+</div>
+
+<div class="pub">
 <a class="title" href=".">"ContrastSense: Domain-invariant Contrastive Learning for In-the-wild Wearable Sensing"</a> </br>
 Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</br>
 <i><b>UbiComp 2025</b></i></br>
@@ -81,7 +88,7 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline
 <h2 class="publications">Preprints &amp; Under Review</h2>
 
 <div class="pub">
-<a class="title" href="https://arxiv.org/abs/2404.15305">"Adapt^2: Adapting Pre-Trained Sensing Models to End-Users via Self-Supervision Replay"</a> </br>
+<!-- <a class="title" href="https://arxiv.org/abs/2404.15305">"Adapt^2: Adapting Pre-Trained Sensing Models to End-Users via Self-Supervision Replay"</a> </br> -->
 <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
 <i>arXiv preprint</i></br>
 <a class="badge badge-info" href="papers/Adapt2.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
@@ -89,7 +96,7 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline
 </div>
 
 <div class="pub">
-<a class="title" href="https://arxiv.org/abs/2209.00945">"IMG2IMU: Applying Knowledge from Large-Scale Images to IMU Applications via Contrastive Learning"</a></br>
+<a class="title" href="https://arxiv.org/abs/2209.00945">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
 <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</br>
 <i>Under review</i></br>
 <a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
