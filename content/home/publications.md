@@ -87,13 +87,13 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline
 
 <h2 class="publications">Preprints &amp; Under Review</h2>
 
-<div class="pub">
-<!-- <a class="title" href="https://arxiv.org/abs/2404.15305">"Adapt^2: Adapting Pre-Trained Sensing Models to End-Users via Self-Supervision Replay"</a> </br> -->
+<!-- <div class="pub">
+<a class="title" href="https://arxiv.org/abs/2404.15305">"Adapt^2: Adapting Pre-Trained Sensing Models to End-Users via Self-Supervision Replay"</a> </br>
 <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
 <i>arXiv preprint</i></br>
 <a class="badge badge-info" href="papers/Adapt2.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2404.15305">{{< icon name="link" pack="fas" >}} arXiv</a>
-</div>
+</div> -->
 
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2209.00945">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
