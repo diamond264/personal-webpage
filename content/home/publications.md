@@ -52,18 +52,18 @@ a.title {
 </div>
 
 <div class="pub">
-<a class="title" href=".">"ContrastSense: Domain-invariant Contrastive Learning for In-the-wild Wearable Sensing"</a> </br>
+<a class="title" href="https://dl.acm.org/doi/10.1145/3699744">"ContrastSense: Domain-invariant Contrastive Learning for In-the-wild Wearable Sensing"</a> </br>
 Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</br>
 <i><b>UbiComp 2025</b></i></br>
 <a class="badge badge-info" href="papers/ContrastSense.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 </div>
 
 <div class="pub">
-<a class="title" href="https://arxiv.org/abs/2407.10385">"By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting"</a> </br>
+<a class="title" href="https://aclanthology.org/2024.emnlp-main.133/">"By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting"</a> </br>
 <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Biniyam Aschalew Tolera, Taesik Gong, Kimin Lee, Sung-Ju Lee</br>
 <i><b>EMNLP 2024 (main track, long paper)</b></i></br>
 <a class="badge badge-info" href="papers/ByMyEyes.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-<a class="badge badge-info" href="https://arxiv.org/abs/2407.10385">{{< icon name="link" pack="fas" >}} arXiv</a>
+<a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/bymyeyes/">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
 
 <div class="pub">
