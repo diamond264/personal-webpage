@@ -90,7 +90,7 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline
 <div class="pub">
 <a class="title" href=".">"EarInsight: A Foundation Model for Advanced Earphone-Based Sensing"</a> </br>
 XiaoMeng Chen*, Seungjoo Lee*, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Yu Wu*, Taiting Lu, Freddy Yifei Liu, Sung-Ju Lee†, Dongyao Chen†, Cecilia Mascolo†, and Lili Qiu</br>
-<p>* Equal contribution. † Equal senior role.</p>
+<i>* Equal contribution. † Equal senior role.</i></br>
 <i>In Submission</i></br>
 <!-- <a class="badge badge-info" href="papers/Adapt2.pdf">{{< icon name="book" pack="fas" >}} pdf</a> -->
 <!-- <a class="badge badge-info" href="https://arxiv.org/abs/2404.15305">{{< icon name="link" pack="fas" >}} arXiv</a> -->
@@ -99,7 +99,7 @@ XiaoMeng Chen*, Seungjoo Lee*, <strong style="text-decoration:underline">Hyungju
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2209.00945">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
 <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</br>
-<i>Under review</i></br>
+<i>In Submission</i></br>
 <a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2209.00945">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
