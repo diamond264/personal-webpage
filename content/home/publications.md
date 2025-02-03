@@ -88,7 +88,7 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline
 <h2 class="publications">Preprints &amp; Under Review</h2>
 
 <div class="pub">
-<a class="title" href=".">"EarInsight: A Foundation Model for Advanced Earphone-Based Sensing"</a> </br>
+<a class="title" href=".">"Anonymized Title"</a> </br>
 XiaoMeng Chen*, Seungjoo Lee*, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Yu Wu*, Taiting Lu, Freddy Yifei Liu, Sung-Ju Lee†, Dongyao Chen†, Cecilia Mascolo†, and Lili Qiu</br>
 <i>* Equal contribution. † Equal senior role.</i></br>
 <i>In Submission</i></br>
