@@ -39,6 +39,7 @@ subtitle = ""
 </style>
 
 <ul class="news">
+<li><span class="tabdate">Feb. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at ACM CHI ‘25 LBW</li>
 <li><span class="tabdate">Jan. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at SenSys ‘25</li>
 <li><span class="tabdate">Nov. 2024<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at MSRA</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at UbiComp ‘25</li>
