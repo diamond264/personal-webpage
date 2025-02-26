@@ -45,6 +45,13 @@ a.title {
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
+<a class="title" href=".">"SelfReplay: Adapting Self-Supervised Sensory Models via Adaptive Meta-Task Replay"</a> </br>
+<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
+<i><b>To appear in SenSys 2025</b></i></br>
+<!-- <a class="badge badge-info" href=".">{{< icon name="book" pack="fas" >}} pdf</a> -->
+</div>
+
+<div class="pub">
 <a class="title" href=".">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
 Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</br>
 <i><b>To appear in CHI 2025 LBW<b></i></br>
