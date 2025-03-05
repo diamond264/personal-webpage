@@ -53,14 +53,14 @@ a.title {
 
 <div class="pub">
 <a class="title" href=".">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
-Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</br>
+<b>Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</b></br>
 <i><b>CHI 2025 LBW<b></i></br>
 <a class="badge badge-info" href="papers/Vishing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 </div>
 
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/10.1145/3699744">"ContrastSense: Domain-invariant Contrastive Learning for In-the-wild Wearable Sensing"</a> </br>
-Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</br>
+<b>Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</b></br>
 <i><b>UbiComp 2025</b></i></br>
 <a class="badge badge-info" href="papers/ContrastSense.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/contrastsense/">{{< icon name="link" pack="fas" >}} website</a>
@@ -68,7 +68,7 @@ Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</s
 
 <div class="pub">
 <a class="title" href="https://aclanthology.org/2024.emnlp-main.133/">"By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting"</a> </br>
-<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Biniyam Aschalew Tolera, Taesik Gong, Kimin Lee, Sung-Ju Lee</br>
+<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Biniyam Aschalew Tolera, Taesik Gong, Kimin Lee, Sung-Ju Lee</b></br>
 <i><b>EMNLP 2024 (main track, long paper)</b></i></br>
 <a class="badge badge-info" href="papers/ByMyEyes.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/bymyeyes/">{{< icon name="link" pack="fas" >}} website</a>
@@ -76,7 +76,7 @@ Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</s
 
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502041">"FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"</a> </br>
-Jaemin Shin, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, and Sung-Ju Lee</br>
+<b>Jaemin Shin, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, and Sung-Ju Lee</b></br>
 <i><b>EMNLP 2023 (main track, short paper)</b></i></br>
 <a class="badge badge-info" href="papers/Fedtherapist.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/fedtherapist/">{{< icon name="link" pack="fas" >}} website</a>
@@ -84,7 +84,7 @@ Jaemin Shin, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, S
 
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502041">"MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame"</a> </br>
-Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee</br>
+<b>Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee</b></br>
 <i><b>CHI 2022</b></i></br>
 <a class="badge badge-info" href="papers/MyDJ.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/mydj/">{{< icon name="link" pack="fas" >}} website</a>
@@ -96,14 +96,14 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline
 
 <div class="pub">
 <a class="title" href=".">"Anonymized Title"</a> </br>
-XiaoMeng Chen*, Seungjoo Lee*, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Yu Wu*, Taiting Lu, Freddy Yifei Liu, Sung-Ju Lee†, Dongyao Chen†, Cecilia Mascolo†, and Lili Qiu</br>
+<b>XiaoMeng Chen*, Seungjoo Lee*, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Yu Wu*, Taiting Lu, Freddy Yifei Liu, Sung-Ju Lee†, Dongyao Chen†, Cecilia Mascolo†, and Lili Qiu</b></br>
 <i>* Equal contribution. † Equal senior role.</i></br>
 <i>In Submission</i></br>
 </div>
 
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2209.00945">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
-<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</br>
+<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</b></br>
 <i>In Submission</i></br>
 <a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2209.00945">{{< icon name="link" pack="fas" >}} arXiv</a>
@@ -111,7 +111,7 @@ XiaoMeng Chen*, Seungjoo Lee*, <strong style="text-decoration:underline">Hyungju
 
 <div class="pub">
 <a class="title" href=".">"Recover as It is Designed to Be: Recovering from Compatibility Mobile App Crashes by Reusing User Flows"</a> </br>
-Donghwi Kim, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Chang Min Park, Sujin Han, Youngjin Kwon, Steve Ko, and Sung-Ju Lee</br>
+<b>Donghwi Kim, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Chang Min Park, Sujin Han, Youngjin Kwon, Steve Ko, and Sung-Ju Lee</b></br>
 <i>arXiv preprint</i></br>
 <a class="badge badge-info" href="papers/SecondChance.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2406.01339">{{< icon name="link" pack="fas" >}} arXiv</a>
