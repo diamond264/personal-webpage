@@ -47,14 +47,15 @@ a.title {
 <div class="pub">
 <a class="title" href=".">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
 Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</br>
-<i><b>To appear in CHI 2025 LBW<b></i></br>
+<i><b>CHI 2025 LBW<b></i></br>
+<a class="badge badge-info" href="papers/Vishing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 </div>
 
 <div class="pub">
 <a class="title" href=".">"SelfReplay: Adapting Self-Supervised Sensory Models via Adaptive Meta-Task Replay"</a> </br>
 <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
-<i><b>To appear in SenSys 2025</b></i></br>
-<!-- <a class="badge badge-info" href=".">{{< icon name="book" pack="fas" >}} pdf</a> -->
+<i><b>SenSys 2025</b></i></br>
+<a class="badge badge-info" href="papers/SelfReplay.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 </div>
 
 <div class="pub">
@@ -62,6 +63,7 @@ Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Ja
 Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</br>
 <i><b>UbiComp 2025</b></i></br>
 <a class="badge badge-info" href="papers/ContrastSense.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/contrastsense/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
@@ -69,7 +71,7 @@ Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</s
 <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Biniyam Aschalew Tolera, Taesik Gong, Kimin Lee, Sung-Ju Lee</br>
 <i><b>EMNLP 2024 (main track, long paper)</b></i></br>
 <a class="badge badge-info" href="papers/ByMyEyes.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-<a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/bymyeyes/">{{< icon name="link" pack="fas" >}} arXiv</a>
+<a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/bymyeyes/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
