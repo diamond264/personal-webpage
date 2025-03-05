@@ -46,7 +46,7 @@ a.title {
 
 <div class="pub">
 <a class="title" href=".">"SelfReplay: Adapting Self-Supervised Sensory Models via Adaptive Meta-Task Replay"</a> </br>
-<strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
+<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</b></br>
 <i><b>SenSys 2025</b></i></br>
 <a class="badge badge-info" href="papers/SelfReplay.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 </div>
