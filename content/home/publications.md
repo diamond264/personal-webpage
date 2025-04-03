@@ -45,6 +45,14 @@ a.title {
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
+<a class="title" href="https://arxiv.org/abs/2209.00945">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
+<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</b></br>
+<i><b>IEEE Transactions on Mobile Computing (TMC) 2025</b></i></br>
+<a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2209.00945">{{< icon name="link" pack="fas" >}} arXiv</a>
+</div>
+
+<div class="pub">
 <a class="title" href=".">"SelfReplay: Adapting Self-Supervised Sensory Models via Adaptive Meta-Task Replay"</a> </br>
 <b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</b></br>
 <i><b>SenSys 2025</b></i></br>
@@ -99,14 +107,6 @@ a.title {
 <b>XiaoMeng Chen*, Seungjoo Lee*, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Yu Wu*, Taiting Lu, Freddy Yifei Liu, Sung-Ju Lee†, Dongyao Chen†, Cecilia Mascolo†, and Lili Qiu</b></br>
 <i>* Equal contribution. † Equal senior role.</i></br>
 <i>In Submission</i></br>
-</div>
-
-<div class="pub">
-<a class="title" href="https://arxiv.org/abs/2209.00945">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
-<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</b></br>
-<i>In Submission</i></br>
-<a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-<a class="badge badge-info" href="https://arxiv.org/abs/2209.00945">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
 
 <div class="pub">
