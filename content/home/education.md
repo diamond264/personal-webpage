@@ -22,9 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research internship,  <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, China (Advisor Prof. <a href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)
-    date_start: '2024-09-09'
+  - title: Research internship,  <a href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a>, UK (Mentor <a href="https://lorenaqendro.github.io/">Lorena Qendro</a>)
+    date_start: '2025-06-01'
     date_end: ''
+  - title: Research internship,  <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, China (Mentor Prof. <a href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)
+    date_start: '2024-09-09'
+    date_end: '2025-03-07'
   - title: Ph.D. in Electrical Engineering,  <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Advisor Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>)
     date_start: '2022-03-01'
     date_end: ''

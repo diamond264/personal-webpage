@@ -39,6 +39,7 @@ subtitle = ""
 </style>
 
 <ul class="news">
+<li><span class="tabdate">Jun. 2025 (expected)<span class="tab">&#9;</span>| </span>&nbsp; Research internship at <a class="text" href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a> (Mentor <a class="text" href="https://lorenaqendro.github.io/">Lorena Qendro</a>)</li>
 <li><span class="tabdate">May. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at MobiSys Workshop (EnvSys) '25</li>
 <li><span class="tabdate">Apr. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at IEEE TMC ‘25</li>
 <li><span class="tabdate">Mar. 2025<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at UNIST</li>
@@ -47,7 +48,7 @@ subtitle = ""
 <li><span class="tabdate">Nov. 2024<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at MSRA</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at UbiComp ‘25</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at EMNLP ‘24</li>
-<li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Started my research internship at <a class="text" href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a> (Advisor Prof. <a class="text" href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)</li>
+<li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Started my research internship at <a class="text" href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a> (Mentor Prof. <a class="text" href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)</li>
 <li><span class="tabdate">Oct. 2023<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at EMNLP ‘23</li>
 <li><span class="tabdate">Sep. 2022<span class="tab">&#9;</span>| </span>&nbsp; Started my visiting research at <a class="text" href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a class="text" href="https://personal.ntu.edu.sg/limo/">Mo Li</a>) (by Dec. 2022)</li>
 <li><span class="tabdate">Mar. 2022<span class="tab">&#9;</span>| </span>&nbsp; Honorable Mention at ACM CHI ‘22</li>
