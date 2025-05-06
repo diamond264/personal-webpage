@@ -100,6 +100,14 @@ a.title {
 <a class="badge badge-info">{{< icon name="award" pack="fas" >}} Honorable Mention Award</a>
 </div>
 
+<h2 class="publications">Workshop Publications</h2>
+
+<div class="pub">
+<a class="title" href=".">"CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles"</a> </br>
+<b>Taeckyung Lee, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Song Min Kim, Sangwook Bak, and Sung-Ju Lee</b></br>
+<i>MobiSys Workshops (EnvSys) 2025 (Oral presentation, peer-reviewed, archived)</i></br>
+</div>
+
 <h2 class="publications">Preprints &amp; Under Review</h2>
 
 <div class="pub">
