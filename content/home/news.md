@@ -39,7 +39,7 @@ subtitle = ""
 </style>
 
 <ul class="news">
-<li><span class="tabdate">Jun. 2025 (expected)<span class="tab">&#9;</span>| </span>&nbsp; Research internship at <a class="text" href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a> (Mentor <a class="text" href="https://lorenaqendro.github.io/">Lorena Qendro</a>)</li>
+<li><span class="tabdate">Jun. 2025<span class="tab">&#9;</span>| </span>&nbsp; (expected) Research internship at <a class="text" href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a> (Mentor <a class="text" href="https://lorenaqendro.github.io/">Lorena Qendro</a>)</li>
 <li><span class="tabdate">May. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at MobiSys Workshop (EnvSys) '25</li>
 <li><span class="tabdate">Apr. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at IEEE TMC ‘25</li>
 <li><span class="tabdate">Mar. 2025<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at UNIST</li>
