@@ -45,25 +45,19 @@ a.title {
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
-<a class="title" href="https://arxiv.org/abs/2209.00945">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
+<a class="title" href="https://www.computer.org/csdl/journal/tm/5555/01/10947275/25AFjfPg5Ve">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
 <b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</b></br>
 <i><b>IEEE Transactions on Mobile Computing (TMC) 2025</b></i></br>
 <a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-<a class="badge badge-info" href="https://arxiv.org/abs/2209.00945">{{< icon name="link" pack="fas" >}} arXiv</a>
+<a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/img2imu/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
-<a class="title" href=".">"SelfReplay: Adapting Self-Supervised Sensory Models via Adaptive Meta-Task Replay"</a> </br>
+<a class="title" href="https://dl.acm.org/doi/10.1145/3715014.3722066">"SelfReplay: Adapting Self-Supervised Sensory Models via Adaptive Meta-Task Replay"</a> </br>
 <b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</b></br>
 <i><b>SenSys 2025</b></i></br>
 <a class="badge badge-info" href="papers/SelfReplay.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-</div>
-
-<div class="pub">
-<a class="title" href=".">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
-<b>Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</b></br>
-<i><b>CHI 2025 LBW<b></i></br>
-<a class="badge badge-info" href="papers/Vishing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/selfreplay/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
@@ -105,7 +99,17 @@ a.title {
 <div class="pub">
 <a class="title" href=".">"CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles"</a> </br>
 <b>Taeckyung Lee, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Song Min Kim, Sangwook Bak, and Sung-Ju Lee</b></br>
-<i>MobiSys Workshops (EnvSys) 2025 (Oral presentation, peer-reviewed, archived)</i></br>
+<i>EnvSys 2025 (MobiSys Workshop) (Oral presentation, peer-reviewed, archived)</i></br>
+<a class="badge badge-info" href="papers/CrashSniffer.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/crashsniffer/">{{< icon name="link" pack="fas" >}} website</a>
+</div>
+
+<div class="pub">
+<a class="title" href="https://dl.acm.org/doi/10.1145/3706599.3719784">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
+<b>Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</b></br>
+<i><b>CHI 2025 Extended Abstracts<b></i></br>
+<a class="badge badge-info" href="papers/Vishing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/vishing/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <h2 class="publications">Preprints &amp; Under Review</h2>
@@ -118,7 +122,7 @@ a.title {
 </div>
 
 <div class="pub">
-<a class="title" href=".">"Recover as It is Designed to Be: Recovering from Compatibility Mobile App Crashes by Reusing User Flows"</a> </br>
+<a class="title" href="https://arxiv.org/abs/2406.01339">"Recover as It is Designed to Be: Recovering from Compatibility Mobile App Crashes by Reusing User Flows"</a> </br>
 <b>Donghwi Kim, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Chang Min Park, Sujin Han, Youngjin Kwon, Steve Ko, and Sung-Ju Lee</b></br>
 <i>arXiv preprint</i></br>
 <a class="badge badge-info" href="papers/SecondChance.pdf">{{< icon name="book" pack="fas" >}} pdf</a>

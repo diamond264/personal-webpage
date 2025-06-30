@@ -44,7 +44,7 @@ subtitle = ""
 <li><span class="tabdate">Apr. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at IEEE TMC ‘25</li>
 <li><span class="tabdate">Mar. 2025<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at UNIST</li>
 <li><span class="tabdate">Feb. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at SenSys ‘25</li>
-<li><span class="tabdate">Feb. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at ACM CHI ‘25 LBW</li>
+<li><span class="tabdate">Feb. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at ACM CHI ‘25 EA</li>
 <li><span class="tabdate">Nov. 2024<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at MSRA</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at UbiComp ‘25</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at EMNLP ‘24</li>
