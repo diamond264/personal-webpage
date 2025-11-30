@@ -39,9 +39,9 @@ subtitle = ""
 </style>
 
 <ul class="news">
-<li><span class="tabdate">Nov. 2025<span class="tab">&#9;</span>| </span>&nbsp; Selected as Winner of the Qualcomm Innovation Fellowship</li>
+<li><span class="tabdate">Nov. 2025<span class="tab">&#9;</span>| </span>&nbsp; Selected as Winner of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship</a></li>
 <li><span class="tabdate">Nov. 2025<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at KAIST Mobile Computing Course</li>
-<li><span class="tabdate">Oct. 2025<span class="tab">&#9;</span>| </span>&nbsp; Selected as Finalist of the Qualcomm Innovation Fellowship</li>
+<li><span class="tabdate">Oct. 2025<span class="tab">&#9;</span>| </span>&nbsp; Selected as Finalist of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists">Qualcomm Innovation Fellowship</a></li>
 <li><span class="tabdate">Jun. 2025<span class="tab">&#9;</span>| </span>&nbsp; Started my research internship at <a class="text" href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a> (Mentor <a class="text" href="https://lorenaqendro.github.io/">Lorena Qendro</a>)</li>
 <li><span class="tabdate">May. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at MobiSys Workshop (EnvSys) '25</li>
 <li><span class="tabdate">Apr. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at IEEE TMC ‘25</li>
