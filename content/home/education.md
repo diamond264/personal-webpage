@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research internship,  <a href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a>, UK (Mentor <a href="https://lorenaqendro.github.io/">Lorena Qendro</a>, hosted by <a href="https://www.fahim-kawsar.net/">Fahim Kawsar</a>)
     date_start: '2025-06-01'
-    date_end: ''
+    date_end: '2025-08-29'
   - title: Research internship,  <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, China (Mentor Prof. <a href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)
     date_start: '2024-09-09'
     date_end: '2025-03-07'

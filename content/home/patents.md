@@ -42,6 +42,12 @@ p.title {
 </style>
 
 <div class="patent">
+<p class="title">"UWB-Based Pedestrian Collision Avoidance System for Personal Mobility Devices"</p>
+Sung-Ju Lee, Hyeongheon Cha, Taeckyung Lee, Seungjoo Lee, <strong style="text-decoration:underline">Hyungjun Yoon</strong></br>
+<i>Korea Patent; Filing date: 2025.11.06, No. 10-2025-0166592</i>
+</div>
+
+<div class="patent">
 <p class="title">"Adaptive State-Space Model-Based Deep Learning System for Real-Time Data Inference on Mobile Devices"</p>
 Sung-Ju Lee, Seungjoo Lee, <strong style="text-decoration:underline">Hyungjun Yoon</strong></br>
 <i>Korea Patent; In progress</i>

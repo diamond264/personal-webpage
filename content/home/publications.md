@@ -42,6 +42,18 @@ a.title {
 }
 }
 </style>
+
+<h2 class="publications">Preprints</h2>
+
+<div class="pub">
+<a class="title" href="https://arxiv.org/abs/2510.20853">"Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"</a> </br>
+<b><strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Seungjoo Lee*, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, and Lili Qiu</b></br>
+<i>* Equal contribution.</i></br>
+<i>arXiv preprint</i></br>
+<a class="badge badge-info" href="papers/BeyondHearing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2510.20853">{{< icon name="link" pack="fas" >}} arXiv</a>
+</div>
+
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
@@ -112,14 +124,7 @@ a.title {
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/vishing/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
-<h2 class="publications">Preprints &amp; Under Review</h2>
-
-<div class="pub">
-<a class="title" href=".">"Anonymized Title"</a> </br>
-<b>XiaoMeng Chen*, Seungjoo Lee*, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Yu Wu*, Taiting Lu, Freddy Yifei Liu, Sung-Ju Lee†, Dongyao Chen†, Cecilia Mascolo†, and Lili Qiu</b></br>
-<i>* Equal contribution. † Equal senior role.</i></br>
-<i>In Submission</i></br>
-</div>
+<h2 class="publications">Archived Manuscripts</h2>
 
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2406.01339">"Recover as It is Designed to Be: Recovering from Compatibility Mobile App Crashes by Reusing User Flows"</a> </br>
