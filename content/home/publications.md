@@ -86,6 +86,7 @@ a.title {
 <i><b>EMNLP 2024 (main track, long paper)</b></i></br>
 <a class="badge badge-info" href="papers/ByMyEyes.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/bymyeyes/">{{< icon name="link" pack="fas" >}} website</a>
+<a class="badge badge-info">{{< icon name="award" pack="fas" >}} Qualcomm Innovation Fellowship Winner</a>
 </div>
 
 <div class="pub">
