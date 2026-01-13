@@ -46,6 +46,14 @@ a.title {
 <h2 class="publications">Preprints</h2>
 
 <div class="pub">
+<a class="title" href="https://arxiv.org/abs/2601.06453">"ConSensus: Multi-Agent Collaboration for Multimodal Sensing"</a> </br>
+<b><strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Mohammad Malekzadeh, Sung-Ju Lee, Fahim Kawsar, and Lorena Qendro</b></br>
+<i>arXiv preprint</i></br>
+<a class="badge badge-info" href="papers/ConSensus.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2601.06453">{{< icon name="link" pack="fas" >}} arXiv</a>
+</div>
+
+<div class="pub">
 <a class="title" href="https://arxiv.org/abs/2510.20853">"Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"</a> </br>
 <b><strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Seungjoo Lee*, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, and Lili Qiu</b></br>
 <i>* Equal contribution.</i></br>
