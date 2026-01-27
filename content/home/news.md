@@ -39,6 +39,7 @@ subtitle = ""
 </style>
 
 <ul class="news">
+<li><span class="tabdate">Jan. 2026<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at ICLR ‘26</li>
 <li><span class="tabdate">Nov. 2025<span class="tab">&#9;</span>| </span>&nbsp; Selected as Winner of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship</a></li>
 <li><span class="tabdate">Nov. 2025<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at KAIST Mobile Computing Course</li>
 <li><span class="tabdate">Oct. 2025<span class="tab">&#9;</span>| </span>&nbsp; Selected as Finalist of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists">Qualcomm Innovation Fellowship</a></li>

@@ -53,16 +53,16 @@ a.title {
 <a class="badge badge-info" href="https://arxiv.org/abs/2601.06453">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
 
+<h2 class="publications">Conferences and Journals</h2>
+
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2510.20853">"Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"</a> </br>
 <b><strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Seungjoo Lee*, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, and Lili Qiu</b></br>
 <i>* Equal contribution.</i></br>
-<i>arXiv preprint</i></br>
+<i>ICLR 2026</i></br>
 <a class="badge badge-info" href="papers/BeyondHearing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2510.20853">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
-
-<h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
 <a class="title" href="https://www.computer.org/csdl/journal/tm/5555/01/10947275/25AFjfPg5Ve">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
