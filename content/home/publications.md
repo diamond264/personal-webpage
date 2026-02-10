@@ -56,6 +56,12 @@ a.title {
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
+<a class="title" href=".">"Evaluating Visual Prompts with Eye-Tracking Data for MLLM–Based Human Activity Recognition"</a> </br>
+<b>Jae Young Choi, Seon Gyeom Kim, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Taeckyung Lee, Donggun Lee, Jaeryung Chung, Jihyung Kil, Ryan Rossi, Sung-Ju Lee, and Tak Yeon Lee</b></br>
+<i>IEEE PacificVis 2026</i></br>
+</div>
+
+<div class="pub">
 <a class="title" href="https://arxiv.org/abs/2510.20853">"Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"</a> </br>
 <b><strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Seungjoo Lee*, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, and Lili Qiu</b></br>
 <i>* Equal contribution.</i></br>
@@ -67,7 +73,7 @@ a.title {
 <div class="pub">
 <a class="title" href="https://www.computer.org/csdl/journal/tm/5555/01/10947275/25AFjfPg5Ve">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
 <b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</b></br>
-<i><b>IEEE Transactions on Mobile Computing (TMC) 2025</b></i></br>
+<i><b>IEEE Transactions on Mobile Computing (TMC) 2025</b> (JCR '23 IF < 5%)</i></br>
 <a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/img2imu/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
