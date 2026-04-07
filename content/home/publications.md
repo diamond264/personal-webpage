@@ -46,19 +46,28 @@ a.title {
 <h2 class="publications">Preprints</h2>
 
 <div class="pub">
-<a class="title" href="https://arxiv.org/abs/2601.06453">"ConSensus: Multi-Agent Collaboration for Multimodal Sensing"</a> </br>
-<b><strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Mohammad Malekzadeh, Sung-Ju Lee, Fahim Kawsar, and Lorena Qendro</b></br>
+<a class="title" href="https://arxiv.org/abs/2601.06453">"Wearable Foundation Models Should Go Beyond Static Encoders"</a> </br>
+<b>Yu Yvonne Wu*, Yuwei Zhang*, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Ting Dang, Dimitris Spathis, Tong Xia, Qiang Yang, Jing Han, Dong Ma, Sung-Ju Lee, and Cecilia Mascolo</b></br>
 <i>arXiv preprint</i></br>
-<a class="badge badge-info" href="papers/ConSensus.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-<a class="badge badge-info" href="https://arxiv.org/abs/2601.06453">{{< icon name="link" pack="fas" >}} arXiv</a>
+<a class="badge badge-info" href="papers/WFMPosition.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2603.19564">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
 
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
+<a class="title" href="https://arxiv.org/abs/2601.06453">"ConSensus: Multi-Agent Collaboration for Multimodal Sensing"</a> </br>
+<b><strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Mohammad Malekzadeh, Sung-Ju Lee, Fahim Kawsar, and Lorena Qendro</b></br>
+<i><b>ACL 2026 (findings, long paper)</i></br>
+<a class="badge badge-info" href="papers/ConSensus.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2601.06453">{{< icon name="link" pack="fas" >}} arXiv</a>
+</div>
+
+<div class="pub">
 <a class="title" href=".">"Evaluating Visual Prompts with Eye-Tracking Data for MLLM–Based Human Activity Recognition"</a> </br>
 <b>Jae Young Choi, Seon Gyeom Kim, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Taeckyung Lee, Donggun Lee, Jaeryung Chung, Jihyung Kil, Ryan Rossi, Sung-Ju Lee, and Tak Yeon Lee</b></br>
 <i>IEEE PacificVis 2026</i></br>
+<a class="badge badge-info" href="papers/EvalEyeVis.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 </div>
 
 <div class="pub">
@@ -97,7 +106,7 @@ a.title {
 <div class="pub">
 <a class="title" href="https://aclanthology.org/2024.emnlp-main.133/">"By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting"</a> </br>
 <b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Biniyam Aschalew Tolera, Taesik Gong, Kimin Lee, Sung-Ju Lee</b></br>
-<i><b>EMNLP 2024 (main track, long paper)</b></i></br>
+<i><b>EMNLP 2024 (main, long paper)</b></i></br>
 <a class="badge badge-info" href="papers/ByMyEyes.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/bymyeyes/">{{< icon name="link" pack="fas" >}} website</a>
 <a class="badge badge-info">{{< icon name="award" pack="fas" >}} Qualcomm Innovation Fellowship Winner</a>
@@ -106,7 +115,7 @@ a.title {
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502041">"FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"</a> </br>
 <b>Jaemin Shin, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, and Sung-Ju Lee</b></br>
-<i><b>EMNLP 2023 (main track, short paper)</b></i></br>
+<i><b>EMNLP 2023 (main, short paper)</b></i></br>
 <a class="badge badge-info" href="papers/Fedtherapist.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://nmsl.kaist.ac.kr/projects/fedtherapist/">{{< icon name="link" pack="fas" >}} website</a>
 </div>

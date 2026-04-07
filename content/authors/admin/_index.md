@@ -10,12 +10,12 @@ last_name: Yoon
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student @ KAIST
+role: Ph.D. Candidate @ KAIST
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KAIST NMSL
-    url: https://nmsl.kaist.ac.kr/
+  - name: KAIST
+    url: https://miil.kaist.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: .

@@ -2,17 +2,26 @@
 name = "MyTheme"
 
 [light]
-  # Primary
+  # Primary (links, accents)
   primary = "#000000"
+  
+  # Menu bar background
+  menu_primary = "#FFFFFF"
+  # Nav link and title text
+  menu_text = "#000000"
+  menu_text_active = "#000000"
+  menu_title = "#000000"
+
   # Menu
-  # menu_primary = "#A6D1E6"
-  menu_primary = "#000435"
-  # menu_text = "#3D3C42"
-  menu_text = "#FEFBF6"
-  # menu_text_active = "#7F5283"
-  menu_text_active = "#FFFFFF"
-  # menu_title = "#3D3C42"
+  # # menu_primary = "#A6D1E6"
+  # menu_primary = "#000435"
+  # # menu_text = "#3D3C42"
+  # menu_text = "#FEFBF6"
+  # # menu_text_active = "#7F5283"
+  # menu_text_active = "#FFFFFF"
+  # # menu_title = "#3D3C42"
   menu_title = "#FEFBF6"
+
   # Backgrounds
   # background = "#FEFBF6"
   # home_section_odd = "#FEFBF6"

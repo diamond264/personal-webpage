@@ -39,6 +39,7 @@ subtitle = ""
 </style>
 
 <ul class="news">
+<li><span class="tabdate">Apr. 2026<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at ACL ‘26 (findings)</li>
 <li><span class="tabdate">Jan. 2026<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at IEEE PacificVis ‘26</li>
 <li><span class="tabdate">Jan. 2026<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at ICLR ‘26</li>
 <li><span class="tabdate">Nov. 2025<span class="tab">&#9;</span>| </span>&nbsp; Selected as Winner of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship</a></li>
@@ -53,9 +54,9 @@ subtitle = ""
 <li><span class="tabdate">Feb. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at ACM CHI ‘25 EA</li>
 <li><span class="tabdate">Nov. 2024<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at MSRA</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at UbiComp ‘25</li>
-<li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at EMNLP ‘24</li>
+<li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at EMNLP ‘24 (main)</li>
 <li><span class="tabdate">Sep. 2024<span class="tab">&#9;</span>| </span>&nbsp; Started my research internship at <a class="text" href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a> (Mentor Prof. <a class="text" href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)</li>
-<li><span class="tabdate">Oct. 2023<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at EMNLP ‘23</li>
+<li><span class="tabdate">Oct. 2023<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at EMNLP ‘23 (main)</li>
 <li><span class="tabdate">Sep. 2022<span class="tab">&#9;</span>| </span>&nbsp; Started my visiting research at <a class="text" href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a class="text" href="https://personal.ntu.edu.sg/limo/">Mo Li</a>) (by Dec. 2022)</li>
 <li><span class="tabdate">Mar. 2022<span class="tab">&#9;</span>| </span>&nbsp; Honorable Mention at ACM CHI ‘22</li>
 <li><span class="tabdate">Nov. 2021<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted at ACM CHI ‘22</li>
