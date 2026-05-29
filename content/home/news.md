@@ -36,6 +36,31 @@ subtitle = ""
     .news-sep {
         white-space: nowrap;
     }
+    ul.news li.news-more {
+        display: none;
+    }
+    ul.news.expanded li.news-more {
+        display: grid;
+    }
+    .news-toggle-wrap {
+        margin-left: 15%;
+        margin-right: 15%;
+        width: 70%;
+        text-align: center;
+        margin-top: 0.5rem;
+    }
+    button.news-toggle {
+        font-size: 13pt;
+        color: #0066cc;
+        background: none;
+        border: none;
+        padding: 0.25rem 0.5rem;
+        cursor: pointer;
+    }
+    button.news-toggle:hover {
+        color: #004499;
+        text-decoration: underline;
+    }
     @media only screen and (max-width: 992px) {
         ul.news {
             font-size: 12pt;
@@ -47,10 +72,15 @@ subtitle = ""
             grid-template-columns: 5.75rem auto 1fr;
             column-gap: 0.2rem;
         }
+        .news-toggle-wrap {
+            margin-left: 0%;
+            margin-right: 0%;
+            width: 100%;
+        }
     }
 </style>
 
-<ul class="news">
+<ul class="news" id="news-list">
 <li><span class="news-date">Jul. 2026</span><span class="news-sep">|</span><span class="news-content">🛫 ICML '26 @ Seoul, South Korea (Jul. 9 - Jul. 11)</span></li>
 <li><span class="news-date">Jun. 2026</span><span class="news-sep">|</span><span class="news-content">🛫 AHLI Health AI Summer Camp @ Seattle, USA (Jun. 22 - Jun. 28)</span></li>
 <li><span class="news-date">May. 2026</span><span class="news-sep">|</span><span class="news-content">🎓 Passed my Ph.D. Dissertation Defense (committee: Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>, Prof. <a href="https://mp2893.com/">Edward Choi</a>, Prof. <a href="https://sites.google.com/view/kiminlee">Kimin Lee</a>, Prof. <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>, Prof. <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>)</span></li>
@@ -87,3 +117,44 @@ subtitle = ""
 <li><span class="news-date">Mar. 2020</span><span class="news-sep">|</span><span class="news-content">🎓 Started my M.S. in <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></span></li>
 <li><span class="news-date">Feb. 2020</span><span class="news-sep">|</span><span class="news-content">🎓 Graduated from KAIST as B.S. (Cum Laude)</span></li>
 </ul>
+<div class="news-toggle-wrap">
+<button class="news-toggle" id="news-toggle" type="button" aria-expanded="false" aria-controls="news-list">Show more</button>
+</div>
+<script>
+(function () {
+  var list = document.getElementById('news-list');
+  var toggle = document.getElementById('news-toggle');
+  var wrap = toggle && toggle.parentElement;
+  if (!list || !toggle || !wrap) return;
+
+  var visibleCount = 15;
+  var items = list.querySelectorAll('li');
+  items.forEach(function (item, index) {
+    if (index >= visibleCount) {
+      item.classList.add('news-more');
+    }
+  });
+
+  var hiddenCount = Math.max(items.length - visibleCount, 0);
+  if (hiddenCount === 0) {
+    wrap.style.display = 'none';
+    return;
+  }
+
+  function setCollapsedLabel() {
+    toggle.textContent = 'Show ' + hiddenCount + ' more';
+    toggle.setAttribute('aria-expanded', 'false');
+  }
+
+  setCollapsedLabel();
+  toggle.addEventListener('click', function () {
+    var expanded = list.classList.toggle('expanded');
+    if (expanded) {
+      toggle.textContent = 'Show less';
+      toggle.setAttribute('aria-expanded', 'true');
+    } else {
+      setCollapsedLabel();
+    }
+  });
+})();
+</script>
