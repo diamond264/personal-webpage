@@ -16,7 +16,7 @@ subtitle = ""
     .bio_links {
         display: flex;
         flex-wrap: wrap;
-        gap: 0.5rem 1.25rem;
+        gap: 0.5rem 0.75rem;
         align-items: center;
     }
 
