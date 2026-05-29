@@ -80,7 +80,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // Subsection titles inside Publications, etc.
-h2.publications {
+#publications h2.publications,
+.home-section .article-style h2.publications {
   font-size: 1.05rem;
   font-weight: 400 !important;
   text-align: center;

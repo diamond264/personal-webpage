@@ -55,7 +55,7 @@ a.title {
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2601.06453">"ConSensus: Multi-Agent Collaboration for Multimodal Sensing"</a> </br>
 <b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Mohammad Malekzadeh, Sung-Ju Lee, Fahim Kawsar, and Lorena Qendro</b></br>
-<i><b>ACL 2026 (findings, long paper)</i></br>
+<i><b>ACL 2026 (findings, long paper)</b></i></br>
 <a class="badge badge-info" href="papers/ConSensus.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2601.06453">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
@@ -140,7 +140,7 @@ a.title {
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/10.1145/3706599.3719784">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
 <b>Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</b></br>
-<i><b>CHI 2025 Extended Abstracts<b></i></br>
+<i><b>CHI 2025 Extended Abstracts</b></i></br>
 <a class="badge badge-info" href="papers/Vishing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/vishing/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
