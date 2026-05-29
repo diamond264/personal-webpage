@@ -6,6 +6,47 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
 }
 
+// Navbar: white bar, black text, subtle divider from page
+.navbar {
+  background: #ffffff !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.navbar .navbar-brand {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #000000 !important;
+}
+
+.navbar .nav-link {
+  font-size: 1rem;
+  font-weight: 400 !important;
+  color: rgba(0, 0, 0, 0.85) !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #0066cc !important;
+}
+
+.navbar .nav-link.active {
+  font-weight: 400 !important;
+  color: #0066cc !important;
+}
+
+// Section titles (News, Publications, Honors, Education, etc.)
+.home-section .section-heading h1 {
+  font-size: 1.35rem;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+// Profile name below photo
+div.profile h3 {
+  font-weight: 400;
+}
+
 // Global link styling
 .home-section .article-style a:not(.badge):not(.btn),
 ul.news a,
