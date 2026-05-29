@@ -24,8 +24,8 @@ subtitle = ""
     }
     ul.news li {
         display: grid;
-        grid-template-columns: 7rem 1rem 1fr;
-        column-gap: 0.75rem;
+        grid-template-columns: 6.25rem auto 1fr;
+        column-gap: 0.2rem;
         margin-bottom: 0.4rem;
         align-items: baseline;
     }
@@ -35,7 +35,7 @@ subtitle = ""
         white-space: nowrap;
     }
     .news-sep {
-        text-align: center;
+        white-space: nowrap;
     }
     @media only screen and (max-width: 992px) {
         ul.news {
@@ -45,7 +45,8 @@ subtitle = ""
             width: 100%;
         }
         ul.news li {
-            grid-template-columns: 6.5rem 1rem 1fr;
+            grid-template-columns: 5.75rem auto 1fr;
+            column-gap: 0.2rem;
         }
         .news-date {
             font-size: 13pt;
