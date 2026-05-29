@@ -14,9 +14,6 @@ subtitle = ""
   padding = ["15px", "0", "25px", "0"]
 +++
 <style>
-h2.publications {
-  text-align: center;
-}
 div.pub {
   font-size: 13pt;
   margin-left: 15%;

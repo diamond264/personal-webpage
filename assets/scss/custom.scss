@@ -6,6 +6,31 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
 }
 
+// Alternating section backgrounds
+#about.home-section {
+  background-color: #f7f7f7 !important;
+}
+
+#news.home-section {
+  background-color: #ffffff !important;
+}
+
+#publications.home-section {
+  background-color: #f7f7f7 !important;
+}
+
+#honors.home-section {
+  background-color: #ffffff !important;
+}
+
+#education.home-section {
+  background-color: #f7f7f7 !important;
+}
+
+#patents.home-section {
+  background-color: #ffffff !important;
+}
+
 // Navbar: white bar, black text, subtle divider from page
 .navbar {
   background: #ffffff !important;
@@ -14,13 +39,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .navbar-brand {
-  font-size: 1rem;
-  font-weight: 400;
+  font-size: 13pt;
+  font-weight: 700;
   color: #000000 !important;
 }
 
 .navbar .nav-link {
-  font-size: 1rem;
+  font-size: 13pt;
   font-weight: 400 !important;
   color: rgba(0, 0, 0, 0.85) !important;
 }
@@ -36,10 +61,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // Section titles (News, Publications, Honors, Education, etc.)
+.home-section .section-heading {
+  text-align: left !important;
+}
+
 .home-section .section-heading h1 {
-  font-size: 1.35rem;
-  font-weight: 500;
+  font-size: 1.15rem;
+  font-weight: 400 !important;
   letter-spacing: 0;
+  text-align: left !important;
+}
+
+// Subsection titles inside Publications, etc.
+h2.publications {
+  font-size: 1.05rem;
+  font-weight: 400 !important;
+  text-align: left;
+  margin-top: 1.25rem;
+  margin-bottom: 0.75rem;
 }
 
 // Profile name below photo

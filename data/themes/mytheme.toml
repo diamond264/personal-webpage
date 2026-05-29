@@ -11,5 +11,5 @@ name = "MyTheme"
   menu_title = "#000000"
   # Backgrounds
   background = "#FFFFFF"
-  home_section_odd = "#FFFFFF"
+  home_section_odd = "#F7F7F7"
   home_section_even = "#FFFFFF"
