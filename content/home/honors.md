@@ -41,16 +41,16 @@ p.title {
 }
 </style>
 <div class="honors">
-<p class="title"><a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship Winner</a></p>
+<p class="title">🏆 <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship Winner</a></p>
 <i>For qualified papers in the field of AI/ML (Top 15), 2025</i></br>
 </div>
 
 <div class="honors">
-<p class="title">Best Paper Honorable Mention</p>
+<p class="title">🏆 Best Paper Honorable Mention</p>
 <i>ACM CHI 2022; Awarded for the top 5% of all submissions</i></br>
 </div>
 
 <div class="honors">
-<p class="title">Dean's List</p>
+<p class="title">🏆 Dean's List</p>
 <i>KAIST, Spring 2019; Awarded to the top 3% students in College of Engineering</i></br>
 </div>
