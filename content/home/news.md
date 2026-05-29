@@ -47,19 +47,23 @@ subtitle = ""
         margin-right: 15%;
         width: 70%;
         text-align: center;
-        margin-top: 0.5rem;
+        margin-top: 0.75rem;
     }
     button.news-toggle {
         font-size: 13pt;
+        font-weight: 500;
         color: #0066cc;
-        background: none;
-        border: none;
-        padding: 0.25rem 0.5rem;
+        background: #f0f6ff;
+        border: 1px solid #b3d4ff;
+        border-radius: 4px;
+        padding: 0.4rem 1rem;
         cursor: pointer;
     }
     button.news-toggle:hover {
         color: #004499;
-        text-decoration: underline;
+        background: #e3efff;
+        border-color: #0066cc;
+        text-decoration: none;
     }
     @media only screen and (max-width: 992px) {
         ul.news {

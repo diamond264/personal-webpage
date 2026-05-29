@@ -19,7 +19,7 @@
   }
 
   function setCollapsedLabel() {
-    toggle.textContent = 'Show ' + hiddenCount + ' more';
+    toggle.textContent = 'Show more';
     toggle.setAttribute('aria-expanded', 'false');
   }
 
