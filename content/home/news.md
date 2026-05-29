@@ -24,7 +24,7 @@ subtitle = ""
     }
     ul.news li {
         display: grid;
-        grid-template-columns: 1.25rem auto 1fr;
+        grid-template-columns: 3.25rem auto 1fr;
         column-gap: 0.5rem;
         margin-bottom: 0.4rem;
         align-items: baseline;
