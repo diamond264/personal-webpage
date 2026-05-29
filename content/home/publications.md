@@ -44,8 +44,8 @@ a.title {
 
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2601.06453">"Wearable Foundation Models Should Go Beyond Static Encoders"</a> </br>
-<b>Yu Yvonne Wu*, Yuwei Zhang*, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Ting Dang, Dimitris Spathis, Tong Xia, Qiang Yang, Jing Han, Dong Ma, Sung-Ju Lee, and Cecilia Mascolo</b></br>
-<i>arXiv preprint</i></br>
+Yu Yvonne Wu*, Yuwei Zhang*, <strong>Hyungjun Yoon*</strong>, Ting Dang, Dimitris Spathis, Tong Xia, Qiang Yang, Jing Han, Dong Ma, Sung-Ju Lee, and Cecilia Mascolo (* Equal contribution)</br>
+arXiv preprint</br>
 <a class="badge badge-info" href="papers/WFMPosition.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2603.19564">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
@@ -54,56 +54,55 @@ a.title {
 
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2601.06453">"ConSensus: Multi-Agent Collaboration for Multimodal Sensing"</a> </br>
-<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Mohammad Malekzadeh, Sung-Ju Lee, Fahim Kawsar, and Lorena Qendro</b></br>
-<i><b>ACL 2026 (findings, long paper)</b></i></br>
+<strong>Hyungjun Yoon</strong>, Mohammad Malekzadeh, Sung-Ju Lee, Fahim Kawsar, and Lorena Qendro</br>
+ACL 2026 Findings</br>
 <a class="badge badge-info" href="papers/ConSensus.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2601.06453">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
 
 <div class="pub">
 <a class="title" href=".">"Evaluating Visual Prompts with Eye-Tracking Data for MLLM–Based Human Activity Recognition"</a> </br>
-<b>Jae Young Choi, Seon Gyeom Kim, <strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Taeckyung Lee, Donggun Lee, Jaeryung Chung, Jihyung Kil, Ryan Rossi, Sung-Ju Lee, and Tak Yeon Lee</b></br>
-<i>IEEE PacificVis 2026</i></br>
+Jae Young Choi, Seon Gyeom Kim, <strong>Hyungjun Yoon</strong>, Taeckyung Lee, Donggun Lee, Jaeryung Chung, Jihyung Kil, Ryan Rossi, Sung-Ju Lee, and Tak Yeon Lee</br>
+IEEE PacificVis 2026</br>
 <a class="badge badge-info" href="papers/EvalEyeVis.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 </div>
 
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2510.20853">"Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"</a> </br>
-<b><strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Seungjoo Lee*, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, and Lili Qiu</b></br>
-<i>* Equal contribution.</i></br>
-<i>ICLR 2026</i></br>
+<strong>Hyungjun Yoon*</strong>, Seungjoo Lee*, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Dongyao Chen, Cecilia Mascolo, Sung-Ju Lee, and Lili Qiu (* Equal contribution)</br>
+ICLR 2026</br>
 <a class="badge badge-info" href="papers/BeyondHearing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2510.20853">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
 
 <div class="pub">
 <a class="title" href="https://www.computer.org/csdl/journal/tm/5555/01/10947275/25AFjfPg5Ve">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
-<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</b></br>
-<i><b>IEEE Transactions on Mobile Computing (TMC) 2025</b> (JCR '23 IF < 5%)</i></br>
+<strong>Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</br>
+IEEE TMC 2025 (JCR '23 IF < 5%)</br>
 <a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/img2imu/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/10.1145/3715014.3722066">"SelfReplay: Adapting Self-Supervised Sensory Models via Adaptive Meta-Task Replay"</a> </br>
-<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</b></br>
-<i><b>SenSys 2025</b></i></br>
+<strong>Hyungjun Yoon</strong>, Jaehyun Kwak, Biniyam Aschalew Tolera, Gaole Dai, Mo Li, Taesik Gong, Kimin Lee, and Sung-Ju Lee</br>
+SenSys 2025</br>
 <a class="badge badge-info" href="papers/SelfReplay.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/selfreplay/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/10.1145/3699744">"ContrastSense: Domain-invariant Contrastive Learning for In-the-wild Wearable Sensing"</a> </br>
-<b>Gaole Dai, Huatao Xu, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</b></br>
-<i><b>UbiComp 2025</b></i></br>
+Gaole Dai, Huatao Xu, <strong>Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</br>
+UbiComp 2025</br>
 <a class="badge badge-info" href="papers/ContrastSense.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/contrastsense/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
 <a class="title" href="https://aclanthology.org/2024.emnlp-main.133/">"By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting"</a> </br>
-<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Biniyam Aschalew Tolera, Taesik Gong, Kimin Lee, Sung-Ju Lee</b></br>
-<i><b>EMNLP 2024 (main, long paper)</b></i></br>
+<strong>Hyungjun Yoon</strong>, Biniyam Aschalew Tolera, Taesik Gong, Kimin Lee, Sung-Ju Lee</br>
+EMNLP 2024 Main</br>
 <a class="badge badge-info" href="papers/ByMyEyes.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/bymyeyes/">{{< icon name="link" pack="fas" >}} website</a>
 <a class="badge badge-info">{{< icon name="award" pack="fas" >}} Qualcomm Innovation Fellowship Winner</a>
@@ -111,16 +110,16 @@ a.title {
 
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502041">"FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"</a> </br>
-<b>Jaemin Shin, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, and Sung-Ju Lee</b></br>
-<i><b>EMNLP 2023 (main, short paper)</b></i></br>
+Jaemin Shin, <strong>Hyungjun Yoon</strong>, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, and Sung-Ju Lee</br>
+EMNLP 2023 Main</br>
 <a class="badge badge-info" href="papers/Fedtherapist.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/fedtherapist/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502041">"MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame"</a> </br>
-<b>Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee</b></br>
-<i><b>CHI 2022</b></i></br>
+Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong>Hyungjun Yoon</strong>, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee</br>
+ACM CHI 2022</br>
 <a class="badge badge-info" href="papers/MyDJ.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/mydj/">{{< icon name="link" pack="fas" >}} website</a>
 <a class="badge badge-info" href="https://www.youtube.com/watch?v=77XNl39QoEE&feature=youtu.be">{{< icon name="video" pack="fas" >}} video</a>
@@ -131,16 +130,16 @@ a.title {
 
 <div class="pub">
 <a class="title" href=".">"CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles"</a> </br>
-<b>Taeckyung Lee, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Song Min Kim, Sangwook Bak, and Sung-Ju Lee</b></br>
-<i>EnvSys 2025 (MobiSys Workshop) (Oral presentation, peer-reviewed, archived)</i></br>
+Taeckyung Lee, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, <strong>Hyungjun Yoon</strong>, Song Min Kim, Sangwook Bak, and Sung-Ju Lee</br>
+EnvSys 2025 (MobiSys Workshop) (Oral presentation, peer-reviewed, archived)</br>
 <a class="badge badge-info" href="papers/CrashSniffer.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/crashsniffer/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/10.1145/3706599.3719784">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
-<b>Subin Park, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</b></br>
-<i><b>CHI 2025 Extended Abstracts</b></i></br>
+Subin Park, <strong>Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</br>
+ACM CHI 2025 EA</br>
 <a class="badge badge-info" href="papers/Vishing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/vishing/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
@@ -149,8 +148,8 @@ a.title {
 
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2406.01339">"Recover as It is Designed to Be: Recovering from Compatibility Mobile App Crashes by Reusing User Flows"</a> </br>
-<b>Donghwi Kim, <strong style="text-decoration:underline">Hyungjun Yoon</strong>, Chang Min Park, Sujin Han, Youngjin Kwon, Steve Ko, and Sung-Ju Lee</b></br>
-<i>arXiv preprint</i></br>
+Donghwi Kim, <strong>Hyungjun Yoon</strong>, Chang Min Park, Sujin Han, Youngjin Kwon, Steve Ko, and Sung-Ju Lee</br>
+arXiv preprint</br>
 <a class="badge badge-info" href="papers/SecondChance.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2406.01339">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
