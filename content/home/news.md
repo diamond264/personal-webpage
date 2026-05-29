@@ -31,7 +31,6 @@ subtitle = ""
     }
     .news-date {
         font-weight: bold;
-        font-size: 14pt;
         white-space: nowrap;
     }
     .news-sep {
@@ -47,9 +46,6 @@ subtitle = ""
         ul.news li {
             grid-template-columns: 5.75rem auto 1fr;
             column-gap: 0.2rem;
-        }
-        .news-date {
-            font-size: 13pt;
         }
     }
 </style>
