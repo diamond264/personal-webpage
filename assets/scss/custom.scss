@@ -131,3 +131,16 @@ div.bio .bio_links a:hover {
   color: inherit;
   text-decoration: underline;
 }
+
+// Award badges on publications
+#publications a.badge-award {
+  background: linear-gradient(135deg, #ffd54f 0%, #ffb74d 100%);
+  color: #4a3600;
+  border: none;
+}
+
+#publications a.badge-award:hover {
+  background: linear-gradient(135deg, #ffca28 0%, #ffa726 100%);
+  color: #4a3600;
+  text-decoration: none;
+}

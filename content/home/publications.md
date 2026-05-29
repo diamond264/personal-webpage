@@ -105,7 +105,7 @@ UbiComp 2025</br>
 EMNLP 2024 Main</br>
 <a class="badge badge-info" href="papers/ByMyEyes.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/bymyeyes/">{{< icon name="link" pack="fas" >}} website</a>
-<a class="badge badge-info">{{< icon name="award" pack="fas" >}} Qualcomm Innovation Fellowship Winner</a>
+<a class="badge badge-award">{{< icon name="award" pack="fas" >}} Qualcomm Innovation Fellowship Winner</a>
 </div>
 
 <div class="pub">
@@ -123,7 +123,7 @@ ACM CHI 2022</br>
 <a class="badge badge-info" href="papers/MyDJ.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/mydj/">{{< icon name="link" pack="fas" >}} website</a>
 <a class="badge badge-info" href="https://www.youtube.com/watch?v=77XNl39QoEE&feature=youtu.be">{{< icon name="video" pack="fas" >}} video</a>
-<a class="badge badge-info">{{< icon name="award" pack="fas" >}} Honorable Mention Award</a>
+<a class="badge badge-award">{{< icon name="award" pack="fas" >}} Honorable Mention Award</a>
 </div>
 
 <h2 class="publications">Workshop Publications</h2>
