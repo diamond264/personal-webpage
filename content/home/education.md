@@ -47,7 +47,7 @@ experience:
 design:
   columns: '1'
   spacing:
-    padding: ["15px", "0", "25px", "0"]
+    padding: ["35px", "0", "45px", "0"]
 ---
 <style>
 blockquote {

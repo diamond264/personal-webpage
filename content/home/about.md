@@ -10,6 +10,8 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+[design.spacing]
+  padding = ["25px", "0", "25px", "0"]
 +++
 
 <style>
@@ -26,7 +28,7 @@ subtitle = ""
         margin-right: 10%;
         width: 80%;
         height: 100%;
-        margin-top: 50px;
+        margin-top: 20px;
     }
 
     div.bio {
@@ -106,7 +108,7 @@ subtitle = ""
             margin-right: 0%;
             width: 100%;
             height: 100%;
-            margin-top: 50px;
+            margin-top: 20px;
             vertical-align: middle;
             align-items: center;
         }

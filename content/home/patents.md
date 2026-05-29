@@ -11,7 +11,7 @@ subtitle = ""
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 [design.spacing]
-  padding = ["15px", "0", "25px", "0"]
+  padding = ["35px", "0", "45px", "0"]
 +++
 <style>
 div.patent {
