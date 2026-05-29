@@ -57,7 +57,7 @@ a.title {
 
 <div class="pub">
 <a class="title" href="https://arxiv.org/abs/2601.06453">"ConSensus: Multi-Agent Collaboration for Multimodal Sensing"</a> </br>
-<b><strong style="text-decoration:underline">Hyungjun Yoon*</strong>, Mohammad Malekzadeh, Sung-Ju Lee, Fahim Kawsar, and Lorena Qendro</b></br>
+<b><strong style="text-decoration:underline">Hyungjun Yoon</strong>, Mohammad Malekzadeh, Sung-Ju Lee, Fahim Kawsar, and Lorena Qendro</b></br>
 <i><b>ACL 2026 (findings, long paper)</i></br>
 <a class="badge badge-info" href="papers/ConSensus.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2601.06453">{{< icon name="link" pack="fas" >}} arXiv</a>
