@@ -3,6 +3,7 @@
 ul.news a,
 div.pub a.title,
 div.bio a,
+div.bio_links a,
 div.experience a,
 a.text {
   color: #0066cc;
@@ -13,6 +14,7 @@ a.text {
 ul.news a:hover,
 div.pub a.title:hover,
 div.bio a:hover,
+div.bio_links a:hover,
 div.experience a:hover,
 a.text:hover {
   color: #004499;

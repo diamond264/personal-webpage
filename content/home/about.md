@@ -13,7 +13,12 @@ subtitle = ""
 +++
 
 <style>
-    .tab { white-space: pre; }
+    .bio_links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem 1.25rem;
+        align-items: center;
+    }
 
     div.full {
         font-size: 13pt;
@@ -91,6 +96,9 @@ subtitle = ""
             -ms-transform: initial;
             transform: initial;
         }
+        .bio_links {
+            justify-content: center;
+        }
         div.full {
             font-size: 12pt;
             text-align:center;
@@ -121,12 +129,14 @@ subtitle = ""
 I am a Ph.D. candidate in <a class="text" href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a> at <a class="text" href="https://www.kaist.ac.kr/en/">KAIST</a>, advised by Professor <a class="text" href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I was a research intern at <a class="text" href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a> (Mentor <a class="text" href="https://lorenaqendro.github.io/">Lorena Qendro</a>, hosted by <a class="text" href="https://www.fahim-kawsar.net/">Fahim Kawsar</a>), Microsoft Research (mentored and hosted by Professor <a class="text" href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>), and a visiting researcher at <a href="https://www.ntu.edu.sg/">NTU</a> (advised by Professor <a class="text" href="https://home.cse.ust.hk/~lim/">Mo Li</a>). I do research on <b>Foundation models</b> and <b>LLMs</b> for <b>Mobile Sensing</b> and <b>Healthcare</b> applications. I enjoy exploring how the techniques can be used for real-world problems.
 
 <hr />
-<a href="https://drive.google.com/file/d/1uFNU_t1R9M4W56_NnuM137mmNZT0q2fg/view?usp=sharing">{{< icon name="file" pack="fas" >}} CV  &nbsp;</a><span class="tab">&#9;</span>
-<a href="mailto:hyungjun.yoon@kaist.ac.kr">{{< icon name="envelope" pack="fas" >}} Email  &nbsp;</a><span class="tab">&#9;</span>
-<a href="https://github.com/diamond264">{{< icon name="github" pack="fab" >}} Github </a><span class="tab">&#9;</span>
-<a href="https://scholar.google.com/citations?user=a7PribYAAAAJ&hl=ko">{{< icon name="google" pack="fab" >}} Scholar  &nbsp;</a><span class="tab">&#9;</span>
-<a href="https://x.com/hyung_jun_yoon">{{< icon name="twitter" pack="fab" >}} X  &nbsp;</a>
-<a href="https://kr.linkedin.com/in/hyungjun-yoon-b78716165">{{< icon name="linkedin" pack="fab" >}} LinkedIn  &nbsp;</a>
+<div class="bio_links">
+<a href="https://drive.google.com/file/d/1uFNU_t1R9M4W56_NnuM137mmNZT0q2fg/view?usp=sharing">{{< icon name="file" pack="fas" >}} CV</a>
+<a href="mailto:hyungjun.yoon@kaist.ac.kr">{{< icon name="envelope" pack="fas" >}} Email</a>
+<a href="https://github.com/diamond264">{{< icon name="github" pack="fab" >}} Github</a>
+<a href="https://scholar.google.com/citations?user=a7PribYAAAAJ&hl=ko">{{< icon name="google" pack="fab" >}} Scholar</a>
+<a href="https://x.com/hyung_jun_yoon">{{< icon name="twitter" pack="fab" >}} X</a>
+<a href="https://kr.linkedin.com/in/hyungjun-yoon-b78716165">{{< icon name="linkedin" pack="fab" >}} LinkedIn</a>
+</div>
 </div>
 </div>
 </div>
