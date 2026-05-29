@@ -1,0 +1,20 @@
+// Global link styling
+.home-section .article-style a:not(.badge):not(.btn),
+ul.news a,
+div.pub a.title,
+div.bio a,
+div.experience a,
+a.text {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.home-section .article-style a:not(.badge):not(.btn):hover,
+ul.news a:hover,
+div.pub a.title:hover,
+div.bio a:hover,
+div.experience a:hover,
+a.text:hover {
+  color: #004499;
+  text-decoration: underline;
+}

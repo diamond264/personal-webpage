@@ -49,7 +49,7 @@ subtitle = ""
 <li><span class="tabdate">Nov. 2025<span class="tab">&#9;</span>| </span>&nbsp; Selected as Winner of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship</a></li>
 <li><span class="tabdate">Nov. 2025<span class="tab">&#9;</span>| </span>&nbsp; Invited talk at KAIST Mobile Computing Course</li>
 <li><span class="tabdate">Oct. 2025<span class="tab">&#9;</span>| </span>&nbsp; Selected as Finalist of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists">Qualcomm Innovation Fellowship</a></li>
-<li><span class="tabdate">Sep. 2025<span class="tab">&#9;</span>| </span>&nbsp; I am serving as the lab leader of <a href="https://nmsl.kaist.ac.kr">Networking & Mobile Systems Lab</a></li>
+<li><span class="tabdate">Sep. 2025<span class="tab">&#9;</span>| </span>&nbsp; I am serving as the lab leader of <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></li>
 <li><span class="tabdate">Jun. 2025<span class="tab">&#9;</span>| </span>&nbsp; Started my research internship at <a class="text" href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a> (Mentor <a class="text" href="https://lorenaqendro.github.io/">Lorena Qendro</a>)</li>
 <li><span class="tabdate">May. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted to MobiSys Workshop (EnvSys) '25</li>
 <li><span class="tabdate">Apr. 2025<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted to IEEE TMC ‘25</li>
@@ -64,7 +64,7 @@ subtitle = ""
 <li><span class="tabdate">Sep. 2022<span class="tab">&#9;</span>| </span>&nbsp; Started my visiting research at <a class="text" href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a class="text" href="https://personal.ntu.edu.sg/limo/">Mo Li</a>) (by Dec. 2022)</li>
 <li><span class="tabdate">Mar. 2022<span class="tab">&#9;</span>| </span>&nbsp; Honorable Mention at ACM CHI ‘22</li>
 <li><span class="tabdate">Nov. 2021<span class="tab">&#9;</span>| </span>&nbsp; Paper accepted to ACM CHI ‘22</li>
-<li><span class="tabdate">Mar. 2021<span class="tab">&#9;</span>| </span>&nbsp; Started my integrated M.S. and Ph.D. in <a href="https://nmsl.kaist.ac.kr">Networking & Mobile Systems Lab</a></li>
-<li><span class="tabdate">Mar. 2020<span class="tab">&#9;</span>| </span>&nbsp; Started my M.S. in <a href="https://nmsl.kaist.ac.kr">Networking & Mobile Systems Lab</a></li>
+<li><span class="tabdate">Mar. 2021<span class="tab">&#9;</span>| </span>&nbsp; Started my integrated M.S. and Ph.D. in <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></li>
+<li><span class="tabdate">Mar. 2020<span class="tab">&#9;</span>| </span>&nbsp; Started my M.S. in <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></li>
 <li><span class="tabdate">Feb. 2020<span class="tab">&#9;</span>| </span>&nbsp; Graduated from KAIST as B.S. (Cum Laude)</li>
 </ul>

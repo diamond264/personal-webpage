@@ -15,10 +15,6 @@ subtitle = ""
 <style>
     .tab { white-space: pre; }
 
-    a.text {
-        text-decoration: underline;
-    }
-
     div.full {
         font-size: 13pt;
         margin-left: 10%;
