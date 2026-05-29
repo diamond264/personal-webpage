@@ -11,7 +11,7 @@ subtitle = ""
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 [design.spacing]
-  padding = ["25px", "0", "25px", "0"]
+  padding = ["25px", "0", "35px", "0"]
 +++
 
 <style>
