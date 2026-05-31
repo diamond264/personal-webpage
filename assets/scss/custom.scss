@@ -73,10 +73,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // Section titles (News, Publications, Honors, Education, etc.)
+.home-section .section-heading {
+  text-align: left !important;
+  padding-left: 15%;
+}
+
 .home-section .section-heading h1 {
   font-size: 1.15rem;
   font-weight: 400 !important;
   letter-spacing: 0;
+}
+
+@media only screen and (max-width: 992px) {
+  .home-section .section-heading {
+    padding-left: 0;
+  }
 }
 
 // Subsection titles inside Publications, etc.
@@ -84,9 +95,17 @@ h1, h2, h3, h4, h5, h6 {
 .home-section .article-style h2.publications {
   font-size: 1.05rem;
   font-weight: 400 !important;
-  text-align: center;
+  text-align: left;
+  margin-left: 15%;
   margin-top: 1.25rem;
   margin-bottom: 0.75rem;
+}
+
+@media only screen and (max-width: 992px) {
+  #publications h2.publications,
+  .home-section .article-style h2.publications {
+    margin-left: 0;
+  }
 }
 
 // Profile name below photo

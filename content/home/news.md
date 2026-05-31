@@ -99,7 +99,7 @@ subtitle = ""
 <li><span class="news-date">Nov. 2025</span><span class="news-sep">|</span><span class="news-content">🏆 Selected as Winner of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship</a></span></li>
 <li><span class="news-date">Nov. 2025</span><span class="news-sep">|</span><span class="news-content">🎤 Invited talk at KAIST Mobile Computing Course</span></li>
 <li><span class="news-date">Oct. 2025</span><span class="news-sep">|</span><span class="news-content">🏆 Selected as Finalist of the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists">Qualcomm Innovation Fellowship</a></span></li>
-<li><span class="news-date">Sep. 2025</span><span class="news-sep">|</span><span class="news-content">I am serving as the lab leader of <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></span></li>
+<li><span class="news-date">Sep. 2025</span><span class="news-sep">|</span><span class="news-content">👔 I am serving as the lab leader of <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></span></li>
 <li><span class="news-date">Jun. 2025</span><span class="news-sep">|</span><span class="news-content">👨‍💻 Research internship at <a href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a> (Mentor <a href="https://lorenaqendro.github.io/">Lorena Qendro</a>)</span></li>
 <li><span class="news-date">May. 2025</span><span class="news-sep">|</span><span class="news-content">🛫 SenSys '25 @ Irvine, USA (May. 5 - May. 9)</span></li>
 <li><span class="news-date">May. 2025</span><span class="news-sep">|</span><span class="news-content">🎉 Paper accepted to MobiSys Workshop (EnvSys) '25</span></li>
@@ -113,12 +113,12 @@ subtitle = ""
 <li><span class="news-date">Sep. 2024</span><span class="news-sep">|</span><span class="news-content">🎉 Paper accepted to EMNLP '24 (main)</span></li>
 <li><span class="news-date">Sep. 2024</span><span class="news-sep">|</span><span class="news-content">👨‍💻 Research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a> (Mentor Prof. <a href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)</span></li>
 <li><span class="news-date">Oct. 2023</span><span class="news-sep">|</span><span class="news-content">🎉 Paper accepted to EMNLP '23 (main)</span></li>
-<li><span class="news-date">Sep. 2022</span><span class="news-sep">|</span><span class="news-content">Visiting researcher at <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a href="https://personal.ntu.edu.sg/limo/">Mo Li</a>) (by Dec. 2022)</span></li>
+<li><span class="news-date">Sep. 2022</span><span class="news-sep">|</span><span class="news-content">👔 Visiting researcher at <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a href="https://personal.ntu.edu.sg/limo/">Mo Li</a>) (by Dec. 2022)</span></li>
 <li><span class="news-date">May. 2022</span><span class="news-sep">|</span><span class="news-content">🛫 ACM CHI '22 @ New Orleans, USA (Apr. 30 - May. 5)</span></li>
 <li><span class="news-date">Mar. 2022</span><span class="news-sep">|</span><span class="news-content">🏆 Honorable Mention at ACM CHI '22</span></li>
 <li><span class="news-date">Nov. 2021</span><span class="news-sep">|</span><span class="news-content">🎉 Paper accepted to ACM CHI '22</span></li>
-<li><span class="news-date">Mar. 2021</span><span class="news-sep">|</span><span class="news-content">🎓 Started my Ph.D. in <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></span></li>
-<li><span class="news-date">Mar. 2020</span><span class="news-sep">|</span><span class="news-content">🎓 Started my M.S. in <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></span></li>
+<li><span class="news-date">Mar. 2021</span><span class="news-sep">|</span><span class="news-content">👔 Started my Ph.D. in <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></span></li>
+<li><span class="news-date">Mar. 2020</span><span class="news-sep">|</span><span class="news-content">👔 Started my M.S. in <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a></span></li>
 <li><span class="news-date">Feb. 2020</span><span class="news-sep">|</span><span class="news-content">🎓 Graduated from KAIST as B.S. (Cum Laude)</span></li>
 </ul>
 <div class="news-toggle-wrap">
