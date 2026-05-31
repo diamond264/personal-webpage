@@ -19,6 +19,9 @@ main:
   - name: Experience
     url: '#education'
     weight: 50
+  - name: Service
+    url: '#service'
+    weight: 55
   - name: Patents
     url: '#patents'
     weight: 60

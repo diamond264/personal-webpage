@@ -128,7 +128,8 @@ ul.news a,
 div.pub a.title,
 div.experience a,
 div.honors a,
-.exp-wrap a {
+.exp-wrap a,
+div.service-wrap a {
   color: #0066cc;
   text-decoration: none;
 }
@@ -138,7 +139,8 @@ ul.news a:hover,
 div.pub a.title:hover,
 div.experience a:hover,
 div.honors a:hover,
-.exp-wrap a:hover {
+.exp-wrap a:hover,
+div.service-wrap a:hover {
   color: #004499;
   text-decoration: underline;
 }
