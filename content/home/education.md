@@ -14,7 +14,7 @@ subtitle = ""
 +++
 <style>
 .exp-wrap {
-  font-size: 13pt;
+  font-size: 11pt;
   margin-left: 15%;
   margin-right: 15%;
   width: 70%;
@@ -39,7 +39,7 @@ subtitle = ""
   margin: 0 auto 0.4rem;
 }
 .exp-logo-img--lg {
-  height: 110px;
+  height: 140px;
   max-width: 200px;
 }
 .exp-duration {
