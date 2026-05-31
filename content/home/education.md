@@ -38,6 +38,10 @@ subtitle = ""
   display: block;
   margin: 0 auto 0.4rem;
 }
+.exp-logo-img--lg {
+  height: 110px;
+  max-width: 200px;
+}
 .exp-duration {
   margin-bottom: 2px;
 }
@@ -81,9 +85,9 @@ subtitle = ""
 </div>
 
 <div class="exp-entry">
-  <img src="/experience_logos/ntu_logo.png" alt="NTU" class="exp-logo-img">
+  <img src="/experience_logos/ntu_logo.png" alt="NTU" class="exp-logo-img exp-logo-img--lg">
   <div class="exp-duration">2022.09 – 2022.12</div>
-  <div class="exp-role">Visiting Researcher, <a href="https://wands.sg/">Wireless and Networked Distributed Sensing (WANDS) group</a>, <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore</div>
+  <div class="exp-role">Visiting Researcher, <a href="https://wands.sg/">WANDS group</a>, <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore</div>
   <div class="exp-meta">Advisor: Prof. <a href="https://personal.ntu.edu.sg/limo/">Mo Li</a></div>
 </div>
 
