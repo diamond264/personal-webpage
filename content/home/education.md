@@ -1,70 +1,108 @@
----
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
++++
+widget = "blank"
+headless = true
+active = true
+weight = 40
 
-# This file represents a page section.
-headless: true
+title = "Experience"
+subtitle = ""
 
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Research internship,  <a href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a>, UK (Mentor <a href="https://lorenaqendro.github.io/">Lorena Qendro</a>, hosted by <a href="https://www.fahim-kawsar.net/">Fahim Kawsar</a>)
-    date_start: '2025-06-01'
-    date_end: '2025-08-29'
-  - title: Research internship,  <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, China (Mentor Prof. <a href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)
-    date_start: '2024-09-09'
-    date_end: '2025-03-07'
-  - title: Ph.D. in Electrical Engineering,  <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Advisor Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>)
-    date_start: '2022-03-01'
-    date_end: ''
-  - title: Visiting researcher at <a href="https://wands.sg/">Wireless and Networked Distributed Sensing (WANDS) group</a>, <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore (Advisor Prof. <a href="https://personal.ntu.edu.sg/limo/">Mo Li</a>)
-    date_start: '2022-09-26'
-    date_end: '2022-12-31'
-  - title: M.S. in Computer Science,  <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Advisor Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>)
-    date_start: '2020-03-01'
-    date_end: '2021-02-28'
-  - title: B.S. in Computer Science,  <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Cum Laude)
-    date_start: '2015-03-01'
-    date_end: '2020-02-29'
-  - title: Research intern at <a href="https://ds.ibs.re.kr/">Data Science Group</a>, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Advisor Prof. <a href="https://www.mpi-sp.org/cha">Meeyoung Cha</a>)
-    date_start: '2019-08-01'
-    date_end: '2020-01-30'
-
-design:
-  columns: '1'
-  spacing:
-    padding: ["35px", "0", "45px", "0"]
----
+[design]
+  columns = "1"
+[design.spacing]
+  padding = ["35px", "0", "45px", "0"]
++++
 <style>
-blockquote {
-  display: none;
+.exp-wrap {
+  font-size: 13pt;
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%;
 }
-div.experience {
-    font-size: 12pt;
-    margin-left: 15%;
-    margin-right: 15%;
-    width: 70%
+.exp-entry {
+  text-align: center;
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+.exp-entry:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.exp-logo-img {
+  height: 60px;
+  width: auto;
+  max-width: 200px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 0.4rem;
+}
+.exp-duration {
+  font-size: 11pt;
+  color: #555;
+  margin-bottom: 2px;
+}
+.exp-role {
+  font-size: 13pt;
+  margin-bottom: 1px;
+}
+.exp-meta {
+  font-size: 11.5pt;
+  color: #333;
 }
 @media only screen and (max-width: 992px) {
-  div.experience {
-      font-size: 12pt;
-      margin-left: 0%;
-      margin-right: 0%;
-      width: 100%
+  .exp-wrap {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: calc(100% - 2rem);
   }
 }
 </style>
+
+<div class="exp-wrap">
+
+<div class="exp-entry">
+  <img src="/experience_logos/kaist_logo.png" alt="KAIST" class="exp-logo-img">
+  <div class="exp-duration">2020.03 – 2026.08 (Expected Graduation)</div>
+  <div class="exp-role">Ph.D. in Electrical Engineering, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea</div>
+  <div class="exp-meta">Advisor: Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a></div>
+  <div class="exp-meta">Dissertation: <a href="papers/Dissertation.pdf">Elevating Large-Scale Pre-Trained Models into Foundation Models for Mobile Sensing</a></div>
+  <div class="exp-meta">Committee: Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>, Prof. <a href="https://mp2893.com/">Edward Choi</a>, Prof. <a href="https://sites.google.com/view/kiminlee">Kimin Lee</a>, Prof. <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>, Prof. <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a></div>
+</div>
+
+<div class="exp-entry">
+  <img src="/experience_logos/nokia_bell_labs_logo.png" alt="Nokia Bell Labs" class="exp-logo-img">
+  <div class="exp-duration">2025.06 – 2025.08</div>
+  <div class="exp-role">Research Intern, <a href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a>, Cambridge, UK</div>
+  <div class="exp-meta">Mentors: Dr. <a href="https://lorenaqendro.github.io/">Lorena Qendro</a>, Prof. <a href="https://www.fahim-kawsar.net/">Fahim Kawsar</a></div>
+</div>
+
+<div class="exp-entry">
+  <img src="/experience_logos/microsoft_logo.png" alt="Microsoft" class="exp-logo-img">
+  <div class="exp-duration">2024.09 – 2025.03</div>
+  <div class="exp-role">Research Intern, Microsoft Research, Shanghai, China</div>
+  <div class="exp-meta">Mentor: Prof. <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a></div>
+</div>
+
+<div class="exp-entry">
+  <img src="/experience_logos/ntu_logo.png" alt="NTU" class="exp-logo-img">
+  <div class="exp-duration">2022.09 – 2022.12</div>
+  <div class="exp-role">Visiting Researcher, <a href="https://wands.sg/">Wireless and Networked Distributed Sensing (WANDS) group</a>, <a href="https://www.ntu.edu.sg/">NTU</a>, Singapore</div>
+  <div class="exp-meta">Advisor: Prof. <a href="https://personal.ntu.edu.sg/limo/">Mo Li</a></div>
+</div>
+
+<div class="exp-entry">
+  <img src="/experience_logos/kaist_logo.png" alt="KAIST" class="exp-logo-img">
+  <div class="exp-duration">2019.08 – 2020.01</div>
+  <div class="exp-role">Research Intern, <a href="https://ds.ibs.re.kr/">Data Science Group</a>, KAIST</div>
+  <div class="exp-meta">Advisor: Prof. <a href="https://www.mpi-sp.org/cha">Meeyoung Cha</a></div>
+</div>
+
+<div class="exp-entry">
+  <img src="/experience_logos/kaist_logo.png" alt="KAIST" class="exp-logo-img">
+  <div class="exp-duration">2015.03 – 2020.02</div>
+  <div class="exp-role">B.S. in Computer Science, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea (Cum Laude)</div>
+</div>
+
+</div>

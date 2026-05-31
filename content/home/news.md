@@ -85,7 +85,7 @@ subtitle = ""
 </style>
 
 <ul class="news" id="news-list">
-<li><span class="news-date">Jul. 2026</span><span class="news-sep">|</span><span class="news-content">🛫 ICML '26 @ Seoul, South Korea (Jul. 9 - Jul. 11)</span></li>
+<li><span class="news-date">Jul. 2026</span><span class="news-sep">|</span><span class="news-content">🛫 ICML '26 @ Seoul, Republic of Korea (Jul. 9 - Jul. 11)</span></li>
 <li><span class="news-date">Jun. 2026</span><span class="news-sep">|</span><span class="news-content">🛫 AHLI Health AI Summer Camp @ Seattle, USA (Jun. 22 - Jun. 28)</span></li>
 <li><span class="news-date">May. 2026</span><span class="news-sep">|</span><span class="news-content">🎓 Passed my Ph.D. Dissertation Defense (committee: Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>, Prof. <a href="https://mp2893.com/">Edward Choi</a>, Prof. <a href="https://sites.google.com/view/kiminlee">Kimin Lee</a>, Prof. <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>, Prof. <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>)</span></li>
 <li><span class="news-date">May. 2026</span><span class="news-sep">|</span><span class="news-content">🎉 Accepted to <a href="https://ahli.cc/summercamp/">AHLI Health AI Summer Camp</a> with full scholarship</span></li>

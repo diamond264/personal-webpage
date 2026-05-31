@@ -126,7 +126,8 @@ div.profile h3 {
 .home-section .article-style a:not(.badge):not(.btn),
 ul.news a,
 div.pub a.title,
-div.experience a {
+div.experience a,
+.exp-detail-col a {
   color: #0066cc;
   text-decoration: none;
 }
@@ -134,7 +135,8 @@ div.experience a {
 .home-section .article-style a:not(.badge):not(.btn):hover,
 ul.news a:hover,
 div.pub a.title:hover,
-div.experience a:hover {
+div.experience a:hover,
+.exp-detail-col a:hover {
   color: #004499;
   text-decoration: underline;
 }
