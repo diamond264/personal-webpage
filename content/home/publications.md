@@ -43,7 +43,7 @@ a.title {
 <h2 class="publications">Preprints</h2>
 
 <div class="pub">
-<a class="title" href="https://arxiv.org/abs/2601.06453">"Wearable Foundation Models Should Go Beyond Static Encoders"</a> </br>
+<a class="title" href="https://arxiv.org/abs/2603.19564">"Wearable Foundation Models Should Go Beyond Static Encoders"</a> </br>
 Yu Yvonne Wu*, Yuwei Zhang*, <strong>Hyungjun Yoon*</strong>, Ting Dang, Dimitris Spathis, Tong Xia, Qiang Yang, Jing Han, Dong Ma, Sung-Ju Lee, and Cecilia Mascolo (* Equal contribution)</br>
 <strong>arXiv preprint</strong></br>
 <a class="badge badge-info" href="papers/WFMPosition.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
@@ -68,11 +68,11 @@ Jae Young Choi, Seon Gyeom Kim, <strong>Hyungjun Yoon</strong>, Taeckyung Lee, D
 </div>
 
 <div class="pub">
-<a class="title" href="https://arxiv.org/abs/2510.20853">"Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"</a> </br>
+<a class="title" href="https://openreview.net/forum?id=s79tJrxDmt">"Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"</a> </br>
 <strong>Hyungjun Yoon*</strong>, Seungjoo Lee*, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Dongyao Chen, Cecilia Mascolo, Sung-Ju Lee, and Lili Qiu (* Equal contribution)</br>
 <strong>ICLR 2026</strong></br>
 <a class="badge badge-info" href="papers/BeyondHearing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
-<a class="badge badge-info" href="https://arxiv.org/abs/2510.20853">{{< icon name="link" pack="fas" >}} arXiv</a>
+<a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/beyondhearing/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
 
 <div class="pub">
@@ -109,7 +109,7 @@ Gaole Dai, Huatao Xu, <strong>Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and 
 </div>
 
 <div class="pub">
-<a class="title" href="https://dl.acm.org/doi/abs/10.1145/3491102.3502041">"FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"</a> </br>
+<a class="title" href="https://aclanthology.org/2023.emnlp-main.734/">"FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"</a> </br>
 Jaemin Shin, <strong>Hyungjun Yoon</strong>, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, and Sung-Ju Lee</br>
 <strong>EMNLP 2023 Main</strong></br>
 <a class="badge badge-info" href="papers/Fedtherapist.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
@@ -129,7 +129,7 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong>Hyungjun Yoon</strong>, Hyunchul
 <h2 class="publications">Workshop Publications</h2>
 
 <div class="pub">
-<a class="title" href=".">"CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles"</a> </br>
+"CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles" </br>
 Taeckyung Lee, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, <strong>Hyungjun Yoon</strong>, Song Min Kim, Sangwook Bak, and Sung-Ju Lee</br>
 <strong>EnvSys 2025 (MobiSys Workshop) (Oral presentation, peer-reviewed, archived)</strong></br>
 <a class="badge badge-info" href="papers/CrashSniffer.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
