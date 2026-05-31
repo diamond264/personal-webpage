@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 50
 
-title = "Service"
+title = "Academic Service"
 subtitle = ""
 
 [design]
