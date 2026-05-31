@@ -43,12 +43,15 @@ subtitle = ""
   max-width: 200px;
 }
 .exp-duration {
+  font-size: 11pt;
   margin-bottom: 2px;
 }
 .exp-role {
+  font-size: 11pt;
   margin-bottom: 1px;
 }
 .exp-meta {
+  font-size: 11pt;
 }
 @media only screen and (max-width: 992px) {
   .exp-wrap {
