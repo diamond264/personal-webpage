@@ -16,7 +16,7 @@ main:
   - name: Honors
     url: '#honors'
     weight: 40
-  - name: Education
+  - name: Experience
     url: '#education'
     weight: 50
   - name: Patents
