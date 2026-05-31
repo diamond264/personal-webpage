@@ -39,17 +39,12 @@ subtitle = ""
   margin: 0 auto 0.4rem;
 }
 .exp-duration {
-  font-size: 11pt;
-  color: #555;
   margin-bottom: 2px;
 }
 .exp-role {
-  font-size: 13pt;
   margin-bottom: 1px;
 }
 .exp-meta {
-  font-size: 11.5pt;
-  color: #333;
 }
 @media only screen and (max-width: 992px) {
   .exp-wrap {
@@ -67,7 +62,7 @@ subtitle = ""
   <div class="exp-duration">2020.03 – 2026.08 (Expected Graduation)</div>
   <div class="exp-role">Ph.D. in Electrical Engineering, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea</div>
   <div class="exp-meta">Advisor: Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a></div>
-  <div class="exp-meta">Dissertation: <a href="papers/Dissertation.pdf">Elevating Large-Scale Pre-Trained Models into Foundation Models for Mobile Sensing</a></div>
+  <div class="exp-meta">Dissertation: "Elevating Large-Scale Pre-Trained Models into Foundation Models for Mobile Sensing" (<a href="papers/Dissertation.pdf">slides</a>)</div>
   <div class="exp-meta">Committee: Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>, Prof. <a href="https://mp2893.com/">Edward Choi</a>, Prof. <a href="https://sites.google.com/view/kiminlee">Kimin Lee</a>, Prof. <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>, Prof. <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a></div>
 </div>
 
