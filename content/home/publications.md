@@ -61,10 +61,11 @@ Yu Yvonne Wu*, Yuwei Zhang*, <strong>Hyungjun Yoon*</strong>, Ting Dang, Dimitri
 </div>
 
 <div class="pub">
-<a class="title" href=".">"Evaluating Visual Prompts with Eye-Tracking Data for MLLM–Based Human Activity Recognition"</a> </br>
+<a class="title" href="https://arxiv.org/abs/2604.09585">"Evaluating Visual Prompts with Eye-Tracking Data for MLLM–Based Human Activity Recognition"</a> </br>
 Jae Young Choi, Seon Gyeom Kim, <strong>Hyungjun Yoon</strong>, Taeckyung Lee, Donggun Lee, Jaeryung Chung, Jihyung Kil, Ryan Rossi, Sung-Ju Lee, and Tak Yeon Lee</br>
 <strong>IEEE PacificVis 2026</strong></br>
 <a class="badge badge-info" href="papers/EvalEyeVis.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2604.09585">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
 
 <div class="pub">
@@ -76,7 +77,7 @@ Jae Young Choi, Seon Gyeom Kim, <strong>Hyungjun Yoon</strong>, Taeckyung Lee, D
 </div>
 
 <div class="pub">
-<a class="title" href="https://www.computer.org/csdl/journal/tm/5555/01/10947275/25AFjfPg5Ve">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
+<a class="title" href="https://ieeexplore.ieee.org/document/10947275">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
 <strong>Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</br>
 <strong>IEEE TMC 2025 (JCR '23 IF < 5%)</strong></br>
 <a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
