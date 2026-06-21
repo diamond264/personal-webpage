@@ -130,6 +130,12 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong>Hyungjun Yoon</strong>, Hyunchul
 <h2 class="publications">Workshop Publications</h2>
 
 <div class="pub">
+<a class="title" href=".">"Dense Supervision but Sparse Guidance: A Token-Level Analysis of On-Policy Self-Distillation"</a> </br>
+Taeckyung Lee, Jeonghye Kim, <strong>Hyungjun Yoon</strong>, and Sung-Ju Lee</br>
+<strong>AI4Math 2026 (ICML Workshop) (non-archival)</strong></br>
+</div>
+
+<div class="pub">
 <a class="title" href="https://miil.kaist.ac.kr/projects/crashsniffer/">"CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles"</a> </br>
 Taeckyung Lee, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, <strong>Hyungjun Yoon</strong>, Song Min Kim, Sangwook Bak, and Sung-Ju Lee</br>
 <strong>EnvSys 2025 (MobiSys Workshop) (Oral presentation, peer-reviewed, archived)</strong></br>
