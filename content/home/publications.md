@@ -74,6 +74,7 @@ Jae Young Choi, Seon Gyeom Kim, <strong>Hyungjun Yoon</strong>, Taeckyung Lee, D
 <strong>ICLR 2026</strong></br>
 <a class="badge badge-info" href="papers/BeyondHearing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/beyondhearing/">{{< icon name="link" pack="fas" >}} website</a>
+<a class="badge badge-media" href="https://breakthroughs.kaist.ac.kr/sub02/view/id/11809">{{< icon name="newspaper" pack="fas" >}} Featured in KAIST Breakthroughs</a>
 </div>
 
 <div class="pub">

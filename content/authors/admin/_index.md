@@ -10,7 +10,7 @@ last_name: Yoon
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate @ KAIST
+role: Postdoctoral Researcher @ KAIST
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://miil.kaist.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: .
+bio: Postdoctoral researcher at KAIST working on foundation models and LLMs for mobile sensing and healthcare.
 
 # Interests to show in About widget
 interests:

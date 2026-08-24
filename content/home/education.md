@@ -66,7 +66,15 @@ subtitle = ""
 
 <div class="exp-entry">
   <img src="/experience_logos/kaist_logo.png" alt="KAIST" class="exp-logo-img">
-  <div class="exp-duration">2020.03 – 2026.08 (Expected Graduation)</div>
+  <div class="exp-duration">2026.08 – Present</div>
+  <div class="exp-role">Postdoctoral Researcher, <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a>, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea</div>
+  <div class="exp-meta">Principal Investigator: Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a></div>
+  <div class="exp-meta">Selected for postdoctoral funding through the BK21 FOUR program</div>
+</div>
+
+<div class="exp-entry">
+  <img src="/experience_logos/kaist_logo.png" alt="KAIST" class="exp-logo-img">
+  <div class="exp-duration">2020.03 – 2026.08</div>
   <div class="exp-role">Ph.D. in Electrical Engineering, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea</div>
   <div class="exp-meta">Advisor: Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a></div>
   <div class="exp-meta">Dissertation: "Elevating Large-Scale Pre-Trained Models into Foundation Models for Mobile Sensing" (<a href="papers/Dissertation.pdf">slides</a>)</div>

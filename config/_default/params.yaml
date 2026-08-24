@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Hyungjun Yoon is a postdoctoral researcher at KAIST working on foundation models and LLMs for mobile sensing and healthcare.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -123,4 +123,4 @@ security:
 
 admin:
   name: Hyungjun Yoon
-  role: "Ph.D. Candidate @ KAIST"
+  role: "Postdoctoral Researcher @ KAIST"

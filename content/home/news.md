@@ -85,6 +85,10 @@ subtitle = ""
 </style>
 
 <ul class="news" id="news-list">
+<li><span class="news-date">Aug. 2026</span><span class="news-sep">|</span><span class="news-content">👨‍💻 Started as a Postdoctoral Researcher in the <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a> at KAIST, working with Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a></span></li>
+<li><span class="news-date">Aug. 2026</span><span class="news-sep">|</span><span class="news-content">💰 Selected as a BK21 FOUR Postdoctoral Researcher, with postdoctoral funding from the program</span></li>
+<li><span class="news-date">Aug. 2026</span><span class="news-sep">|</span><span class="news-content">📰 Our Beyond Hearing research was featured in <a href="https://breakthroughs.kaist.ac.kr/sub02/view/id/11809">KAIST Breakthroughs</a></span></li>
+<li><span class="news-date">Aug. 2026</span><span class="news-sep">|</span><span class="news-content">🎓 Received my Ph.D. in Electrical Engineering from KAIST</span></li>
 <li><span class="news-date">Jul. 2026</span><span class="news-sep">|</span><span class="news-content">🛫 ICML '26 @ Seoul, Republic of Korea (Jul. 9 - Jul. 11)</span></li>
 <li><span class="news-date">Jun. 2026</span><span class="news-sep">|</span><span class="news-content">🛫 AHLI Health AI Summer Camp @ Seattle, USA (Jun. 22 - Jun. 28)</span></li>
 <li><span class="news-date">Jun. 2026</span><span class="news-sep">|</span><span class="news-content">🎉 Paper accepted to AI4Math Workshop @ ICML '26</span></li>
