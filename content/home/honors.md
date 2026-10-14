@@ -41,6 +41,11 @@ p.title {
 }
 </style>
 <div class="honors">
+<p class="title">🎓 Full Scholarship, AHLI Health AI Summer Camp</p>
+<i>Selected for the Advanced Health and Life Intelligence summer program, 2026</i><br>
+</div>
+
+<div class="honors">
 <p class="title">🏆 <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship Winner</a></p>
 <i>For qualified papers in the field of AI/ML (Top 15), 2025</i></br>
 </div>

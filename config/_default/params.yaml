@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Hyungjun Yoon is a postdoctoral researcher at KAIST working on Foundation Models and LLM Agents for Mobile and Healthcare applications.'
-    twitter: 'wowchemy'
+    description: 'Hyungjun Yoon is a postdoctoral researcher at KAIST developing sensor foundation models and LLM agents for personalized healthcare and mobile computing.'
+    twitter: 'hyung_jun_yoon'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -74,7 +74,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/diamond264/personal-webpage'
     content_dir: content
     branch: main
   avatar:

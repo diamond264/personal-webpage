@@ -60,11 +60,25 @@ div.service-wrap {
 
 <div class="service-category">Organizer</div>
 <div class="service-row">
+  <span class="service-venue"><a href="https://sites.google.com/view/sa4me/home">SA4ME: Spatial Audio for Multisensory Experiences</a> @ IEEE VR '27 (accepted workshop; upcoming)</span>
+  <span class="service-years">2027</span>
+</div>
+<div class="service-row">
   <span class="service-venue"><a href="https://wellcomp2026.github.io/index.html">WellComp 2026</a> @ <a href="https://www.ubicomp.org/ubicomp-iswc-2026/">UbiComp/ISWC '26</a></span>
   <span class="service-years">2026</span>
 </div>
 
+<div class="service-category">Invited Panelist</div>
+<div class="service-row">
+  <span class="service-venue"><a href="https://ml4h.ahli.cc/submit/mentorship-programs/">ML4H Career Panel</a> (confirmed; upcoming)</span>
+  <span class="service-years">2026</span>
+</div>
+
 <div class="service-category">Reviewer</div>
+<div class="service-row">
+  <span class="service-venue">ICLR</span>
+  <span class="service-years">2027</span>
+</div>
 <div class="service-row">
   <span class="service-venue">NeurIPS</span>
   <span class="service-years">2026</span>

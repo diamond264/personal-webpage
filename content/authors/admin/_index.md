@@ -18,7 +18,7 @@ organizations:
     url: https://miil.kaist.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral researcher at KAIST working on Foundation Models and LLM Agents for Mobile and Healthcare applications.
+bio: Postdoctoral researcher at KAIST developing sensor foundation models and LLM agents for personalized healthcare and mobile computing.
 
 # Interests to show in About widget
 interests:

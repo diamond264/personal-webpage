@@ -24,7 +24,7 @@ subtitle = ""
     }
     ul.news li {
         display: grid;
-        grid-template-columns: 4.00rem auto 1fr;
+        grid-template-columns: 5.75rem auto minmax(0, 1fr);
         column-gap: 0.5rem;
         margin-bottom: 0.4rem;
         align-items: baseline;
@@ -85,6 +85,14 @@ subtitle = ""
 </style>
 
 <ul class="news" id="news-list">
+<li><span class="news-date">Oct. 2026</span><span class="news-sep">|</span><span class="news-content">🛫 Attending <a href="https://www.ubicomp.org/ubicomp-iswc-2026/">UbiComp/ISWC '26</a> in Shanghai, China (Oct. 11–15, including workshops)</span></li>
+<li><span class="news-date">Oct. 2026</span><span class="news-sep">|</span><span class="news-content">👔 Co-organized <a href="https://wellcomp2026.github.io/">WellComp 2026</a>, the Computing for Well-being Workshop @ UbiComp/ISWC '26</span></li>
+<li><span class="news-date">Oct. 2026</span><span class="news-sep">|</span><span class="news-content">🎉 Our <a href="https://sites.google.com/view/sa4me/home">SA4ME: Spatial Audio for Multisensory Experiences</a> workshop proposal was accepted to IEEE VR '27; I will serve as an organizer</span></li>
+<li><span class="news-date">Oct. 2026</span><span class="news-sep">|</span><span class="news-content">📄 New preprint: <a href="https://arxiv.org/abs/2610.07758">Later Is Better</a>, on token reduction for vision transformers under distribution shift</span></li>
+<li><span class="news-date">Oct. 2026</span><span class="news-sep">|</span><span class="news-content">📄 Introducing <a href="https://arxiv.org/abs/2610.04407">TimeNet</a>, a unified data infrastructure for temporal foundation models, with an international team of collaborators</span></li>
+<li><span class="news-date">Oct. 2026</span><span class="news-sep">|</span><span class="news-content">🎤 Invited to the <a href="https://ml4h.ahli.cc/submit/mentorship-programs/">ML4H 2026 career panel</a> (confirmed; upcoming)</span></li>
+<li><span class="news-date">Oct. 2026</span><span class="news-sep">|</span><span class="news-content">📝 Serving as a reviewer for ICLR 2027</span></li>
+<li><span class="news-date">Sep. 2026</span><span class="news-sep">|</span><span class="news-content">📄 New preprint: <a href="https://arxiv.org/abs/2609.30878">TISD: On-Policy Self-Distillation with Trajectory Intervention</a></span></li>
 <li><span class="news-date">Aug. 2026</span><span class="news-sep">|</span><span class="news-content">👨‍💻 Started as a Postdoctoral Researcher at KAIST</span></li>
 <li><span class="news-date">Aug. 2026</span><span class="news-sep">|</span><span class="news-content">💰 Selected as a BK21 FOUR Postdoctoral Researcher</span></li>
 <li><span class="news-date">Aug. 2026</span><span class="news-sep">|</span><span class="news-content">📰 Our Beyond Hearing research was featured in <a href="https://breakthroughs.kaist.ac.kr/sub02/view/id/11809">KAIST Breakthroughs</a></span></li>

@@ -23,37 +23,27 @@ subtitle = ""
     }
 
     div.full {
+        display: flex;
+        gap: 35px;
+        align-items: center;
         font-size: 13pt;
         margin-left: 10%;
         margin-right: 10%;
         width: 80%;
-        height: 100%;
         margin-top: 20px;
     }
 
     div.bio {
-        /* height: 100%; */
-        width: 65%;
-        height: 100%;
-        margin-left: 35px;
-        float: left;
-        vertical-align: middle;
-        align-items: center;
-        position: relative;
+        flex: 1;
+        min-width: 0;
     }
 
     div.bio_contents {
-        position: absolute;
-        top: 40%;
-        -ms-transform: translateY(-40%);
-        transform: translateY(-40%);
+        position: static;
     }
 
     div.profile {
-        width: 30%;
-        height: 100%;
-        float: left;
-        align-items: center;
+        flex: 0 0 30%;
         text-align: center;
     }
 
@@ -77,6 +67,7 @@ subtitle = ""
             margin-left: 15%;
         }
         div.profile {
+            flex: none;
             width: 70%;
             height: initial;
             margin-right: 15%;
@@ -84,6 +75,7 @@ subtitle = ""
             margin-bottom: 20px;
         }
         div.bio {
+            flex: none;
             width: 80%;
             margin-right: 10%;
             margin-left: 10%;
@@ -94,14 +86,13 @@ subtitle = ""
         }
         div.bio_contents {
             position: initial;
-            top: initial%;
-            -ms-transform: initial;
-            transform: initial;
         }
         .bio_links {
             justify-content: center;
         }
         div.full {
+            flex-direction: column;
+            gap: 0;
             font-size: 12pt;
             text-align:center;
             margin-left: 0%;
@@ -128,7 +119,9 @@ subtitle = ""
 
 <div class="bio">
 <div class="bio_contents">
-I am a postdoctoral researcher in the <a class="text" href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a> at <a class="text" href="https://www.kaist.ac.kr/en/">KAIST</a>, working with Professor <a class="text" href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I received my Ph.D. in Electrical Engineering from KAIST in 2026. I was a research intern at <a class="text" href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a> (Mentor <a class="text" href="https://lorenaqendro.github.io/">Lorena Qendro</a>, hosted by <a class="text" href="https://www.fahim-kawsar.net/">Fahim Kawsar</a>), Microsoft Research (mentored and hosted by Professor <a class="text" href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>), and a visiting researcher at <a href="https://www.ntu.edu.sg/">NTU</a> (advised by Professor <a class="text" href="https://home.cse.ust.hk/~lim/">Mo Li</a>). I do research on <b>Foundation Models</b> and <b>LLM Agents</b> for <b>Mobile</b> and <b>Healthcare</b> applications. I enjoy exploring how the techniques can be used for real-world problems.
+<p>I am a postdoctoral researcher in the <a class="text" href="https://miil.kaist.ac.kr/">Mobile Intelligence &amp; Interaction Lab</a> at <a class="text" href="https://www.kaist.ac.kr/en/">KAIST</a>, working with Professor <a class="text" href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I received my Ph.D. in Electrical Engineering from KAIST in 2026. Previously, I was a research intern at <a class="text" href="https://www.nokia.com/bell-labs/research/">Nokia Bell Labs</a> (mentored by <a class="text" href="https://lorenaqendro.github.io/">Lorena Qendro</a> and hosted by <a class="text" href="https://www.fahim-kawsar.net/">Fahim Kawsar</a>) and Microsoft Research (mentored by Professor <a class="text" href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>), and a visiting researcher at <a href="https://www.ntu.edu.sg/">NTU</a> (advised by Professor <a class="text" href="https://home.cse.ust.hk/~lim/">Mo Li</a>).</p>
+
+<p>I develop <b>Foundation Models</b> and <b>LLM Agents</b> to understand people through mobile, wearable, and physiological data. I study how models can generalize across sensors and applications, adapt to individual users, and use tools and personal context to reason about health. I build systems end to end, from sensing hardware and data collection to on-device deployment and user studies. My current focus is <b>personalized health agents</b> and <b>harness optimization</b>: improving how agents select data, use tools, and verify their answers.</p>
 
 <hr />
 <div class="bio_links">

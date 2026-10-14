@@ -43,9 +43,34 @@ a.title {
 <h2 class="publications">Preprints</h2>
 
 <div class="pub">
+<a class="title" href="https://arxiv.org/abs/2610.07758">"Later Is Better: Token Reduction for ViTs Under Distribution Shift"</a><br>
+Hyeongheon Cha, <strong>Hyungjun Yoon</strong>, and Sung-Ju Lee<br>
+<strong>arXiv preprint, 2026 (in submission)</strong><br>
+<a class="badge badge-info" href="https://arxiv.org/pdf/2610.07758">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2610.07758">{{< icon name="link" pack="fas" >}} arXiv</a>
+<a class="badge badge-info" href="https://github.com/chahh9808/LaterIsBetter">{{< icon name="github" pack="fab" >}} code</a>
+</div>
+
+<div class="pub">
+<a class="title" href="https://arxiv.org/abs/2610.04407">"TimeNet: An Extensible Unified Data Infrastructure for Next-Generation Temporal Foundation Models"</a><br>
+Martin Maritsch*, Timo Stoffregen*, Thomas Kaar, Behsad Riemer, Maxwell A. Xu, Max Rosenblattl, Juncheng Liu, Nicolas Zumarraga, Yu Yvonne Wu, Denys Herasymuk, Sparsh Rastogi, <strong>Hyungjun Yoon</strong>, et&nbsp;al. (* Equal contribution)<br>
+<strong>arXiv preprint, 2026 (in submission)</strong><br>
+<a class="badge badge-info" href="https://arxiv.org/pdf/2610.04407">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2610.04407">{{< icon name="link" pack="fas" >}} arXiv</a>
+</div>
+
+<div class="pub">
+<a class="title" href="https://arxiv.org/abs/2609.30878">"TISD: On-Policy Self-Distillation with Trajectory Intervention"</a><br>
+Taeckyung Lee, Rinat Amankos, Jeonghye Kim, <strong>Hyungjun Yoon</strong>, Woogyeol Jin, and Sung-Ju Lee<br>
+<strong>arXiv preprint, 2026 (in submission)</strong><br>
+<a class="badge badge-info" href="https://arxiv.org/pdf/2609.30878">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://arxiv.org/abs/2609.30878">{{< icon name="link" pack="fas" >}} arXiv</a>
+</div>
+
+<div class="pub">
 <a class="title" href="https://arxiv.org/abs/2603.19564">"Wearable Foundation Models Should Go Beyond Static Encoders"</a> </br>
 Yu Yvonne Wu*, Yuwei Zhang*, <strong>Hyungjun Yoon*</strong>, Ting Dang, Dimitris Spathis, Tong Xia, Qiang Yang, Jing Han, Dong Ma, Sung-Ju Lee, and Cecilia Mascolo (* Equal contribution)</br>
-<strong>arXiv preprint</strong></br>
+<strong>arXiv preprint, 2026 (in submission)</strong></br>
 <a class="badge badge-info" href="papers/WFMPosition.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2603.19564">{{< icon name="link" pack="fas" >}} arXiv</a>
 </div>
@@ -53,11 +78,13 @@ Yu Yvonne Wu*, Yuwei Zhang*, <strong>Hyungjun Yoon*</strong>, Ting Dang, Dimitri
 <h2 class="publications">Conferences and Journals</h2>
 
 <div class="pub">
-<a class="title" href="https://arxiv.org/abs/2601.06453">"ConSensus: Multi-Agent Collaboration for Multimodal Sensing"</a> </br>
+<a class="title" href="https://aclanthology.org/2026.findings-acl.1649/">"ConSensus: Multi-Agent Collaboration for Multimodal Sensing"</a> </br>
 <strong>Hyungjun Yoon</strong>, Mohammad Malekzadeh, Sung-Ju Lee, Fahim Kawsar, and Lorena Qendro</br>
 <strong>ACL 2026 Findings</strong></br>
 <a class="badge badge-info" href="papers/ConSensus.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://aclanthology.org/2026.findings-acl.1649/">{{< icon name="link" pack="fas" >}} proceedings</a>
 <a class="badge badge-info" href="https://arxiv.org/abs/2601.06453">{{< icon name="link" pack="fas" >}} arXiv</a>
+<a class="badge badge-info" href="https://github.com/nokia/multi-agent-collaboration-for-multimodal-sensing">{{< icon name="github" pack="fab" >}} code</a>
 </div>
 
 <div class="pub">
@@ -79,7 +106,7 @@ Jae Young Choi, Seon Gyeom Kim, <strong>Hyungjun Yoon</strong>, Taeckyung Lee, D
 
 <div class="pub">
 <a class="title" href="https://ieeexplore.ieee.org/document/10947275">"From Vision to Motion: Translating Large-Scale Knowledge for Data-Scarce IMU Applications"</a></br>
-<strong>Hyungjun Yoon</strong>, Hyeongheon Cha, Canh Hoang Nguyen, Taesik Gong, and Sung-Ju Lee</br>
+<strong>Hyungjun Yoon</strong>, Hyeongheon Cha, Hoang C. Nguyen, Taesik Gong, and Sung-Ju Lee</br>
 <strong>IEEE TMC 2025 (JCR '23 IF < 5%)</strong></br>
 <a class="badge badge-info" href="papers/IMG2IMU.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/img2imu/">{{< icon name="link" pack="fas" >}} website</a>
@@ -95,8 +122,8 @@ Jae Young Choi, Seon Gyeom Kim, <strong>Hyungjun Yoon</strong>, Taeckyung Lee, D
 
 <div class="pub">
 <a class="title" href="https://dl.acm.org/doi/10.1145/3699744">"ContrastSense: Domain-invariant Contrastive Learning for In-the-wild Wearable Sensing"</a> </br>
-Gaole Dai, Huatao Xu, <strong>Hyungjun Yoon</strong>, Sung-Ju Lee, Rui Tan, and Mo Li</br>
-<strong>UbiComp 2025</strong></br>
+Gaole Dai, Huatao Xu, <strong>Hyungjun Yoon</strong>, Mo Li, Rui Tan, and Sung-Ju Lee</br>
+<strong>ACM IMWUT 2024 (presented at UbiComp 2025)</strong></br>
 <a class="badge badge-info" href="papers/ContrastSense.pdf">{{< icon name="book" pack="fas" >}} pdf</a>
 <a class="badge badge-info" href="https://miil.kaist.ac.kr/projects/contrastsense/">{{< icon name="link" pack="fas" >}} website</a>
 </div>
@@ -131,9 +158,11 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, <strong>Hyungjun Yoon</strong>, Hyunchul
 <h2 class="publications">Workshop Publications</h2>
 
 <div class="pub">
-<a class="title" href=".">"Dense Supervision but Sparse Guidance: A Token-Level Analysis of On-Policy Self-Distillation"</a> </br>
+<a class="title" href="https://openreview.net/forum?id=IfAQFQ56Zi">"Dense Supervision but Sparse Guidance: A Token-Level Analysis of On-Policy Self-Distillation"</a> </br>
 Taeckyung Lee, Jeonghye Kim, <strong>Hyungjun Yoon</strong>, and Sung-Ju Lee</br>
 <strong>AI4Math 2026 (ICML Workshop) (non-archival)</strong></br>
+<a class="badge badge-info" href="https://openreview.net/pdf?id=IfAQFQ56Zi">{{< icon name="book" pack="fas" >}} pdf</a>
+<a class="badge badge-info" href="https://openreview.net/forum?id=IfAQFQ56Zi">{{< icon name="link" pack="fas" >}} OpenReview</a>
 </div>
 
 <div class="pub">
@@ -145,7 +174,7 @@ Taeckyung Lee, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, <stro
 </div>
 
 <div class="pub">
-<a class="title" href="https://dl.acm.org/doi/10.1145/3706599.3719784">""I know my personal data does not leave my phone, but ...": Understanding User (Mis)Perceptions of On-Device AI Voice Phishing Detection"</a> </br>
+<a class="title" href="https://dl.acm.org/doi/10.1145/3706599.3719784">“I know my data doesn't leave my phone, but still feel like being wiretapped”: Understanding (Mis)Perceptions of On-Device AI Vishing Detection Apps</a> </br>
 Subin Park, <strong>Hyungjun Yoon</strong>, Janu Kim, Hyoungshick Kim, and Sung-Ju Lee</br>
 <strong>ACM CHI 2025 EA</strong></br>
 <a class="badge badge-info" href="papers/Vishing.pdf">{{< icon name="book" pack="fas" >}} pdf</a>

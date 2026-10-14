@@ -70,6 +70,7 @@ subtitle = ""
   <div class="exp-role">Postdoctoral Researcher, <a href="https://miil.kaist.ac.kr/">Mobile Intelligence & Interaction Lab</a>, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, Republic of Korea</div>
   <div class="exp-meta">Principal Investigator: Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a></div>
   <div class="exp-meta">Selected for postdoctoral funding through the BK21 FOUR program</div>
+  <div class="exp-meta">Research: sensor foundation models, personalized health LLM agents, and test-time context and harness optimization</div>
 </div>
 
 <div class="exp-entry">
